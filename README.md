@@ -12,3 +12,10 @@ Changelog: 24.10.2020.
 ----------------------
 
 Icon correction: window.svg
+
+Changelog: 11.11.2020.
+-----------------------
+
+Fixed widget: panel-background.svg
+
+Icon correction: window.svg
