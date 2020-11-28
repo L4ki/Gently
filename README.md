@@ -19,3 +19,8 @@ Changelog: 11.11.2020.
 Fixed widget: panel-background.svg
 
 Icon correction: window.svg
+
+Changelog: 28.11.2020.
+----------------------
+
+Correction of file colors
