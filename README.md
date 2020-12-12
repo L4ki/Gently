@@ -24,3 +24,8 @@ Changelog: 28.11.2020.
 ----------------------
 
 Correction of file colors
+
+Changelog: 12.12.2020.
+----------------------
+
+Fixed widget: scrollbar.svg
