@@ -8,10 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="device.svg"
    version="1.1"
-   viewBox="0 0 22 22">
+   viewBox="0 0 32 32"
+   width="32"
+   height="32">
   <metadata
      id="metadata28">
     <rdf:RDF>
@@ -32,8 +34,8 @@
      guidetolerance="10"
      inkscape:bbox-nodes="true"
      inkscape:current-layer="svg"
-     inkscape:cx="86.993763"
-     inkscape:cy="23.218348"
+     inkscape:cx="34.37894"
+     inkscape:cy="34.469073"
      inkscape:object-nodes="true"
      inkscape:object-paths="true"
      inkscape:pageopacity="0"
@@ -44,12 +46,12 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:window-height="1024"
+     inkscape:window-height="1016"
      inkscape:window-maximized="1"
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="4.5301261"
+     inkscape:zoom="7.4513901"
      objecttolerance="10"
      pagecolor="#ffffff"
      showgrid="false"
@@ -59,7 +61,9 @@
      inkscape:document-rotation="0">
     <inkscape:grid
        id="grid842"
-       type="xygrid" />
+       type="xygrid"
+       originx="-4.53125e-13"
+       originy="34" />
   </sodipodi:namedview>
   <defs
      id="defs3">
@@ -68,122 +72,127 @@
   </defs>
   <g
      id="22-22-device-notifier"
-     transform="rotate(180,11,11)">
+     transform="translate(0,34)">
     <rect
        id="rect12"
        class="ColorScheme-Text"
        width="22"
        height="22"
-       x="0"
-       y="0"
-       style="color:#dedede;fill-opacity:0" />
+       x="-22"
+       y="-22"
+       style="color:#dedede;fill-opacity:0"
+       transform="scale(-1)" />
     <rect
        id="rect14"
        width="22"
        height="22"
-       x="0"
-       y="0"
-       style="opacity:0" />
+       x="-22"
+       y="-22"
+       style="opacity:0"
+       transform="scale(-1)" />
     <rect
        id="rect16"
        class="ColorScheme-Text"
        width="22"
        height="22"
-       x="0"
-       y="0"
-       style="color:#dedede;fill-opacity:0" />
+       x="-22"
+       y="-22"
+       style="color:#dedede;fill-opacity:0"
+       transform="scale(-1)" />
     <path
        id="rect849"
-       d="M 10,2 C 7.23,2 5,4.23 5,7 v 3 6 H 17 V 10 7 C 17,4.23 14.77,2 12,2 Z m 1,1 a 1,1 0 0 1 1,1 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 z"
-       style="fill:#d7f1f8;fill-opacity:1"
+       d="M 11.66667,19 C 13.513337,19 15,17.12211 15,14.78948 V 12.263157 7.2105262 H 7 V 12.263157 14.78948 C 7,17.12211 8.4866676,19 10.333334,19 Z M 11,18.15789 A 0.66666683,0.8421052 0 0 1 10.333334,17.315787 0.66666683,0.8421052 0 0 1 11,16.47368 0.66666683,0.8421052 0 0 1 11.66667,17.315787 0.66666683,0.8421052 0 0 1 11,18.15789 Z"
+       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.749273"
        inkscape:connector-curvature="0" />
     <path
        id="path20"
-       d="M 7,16.4 7,21 h 8 v -4.6 z m 1,1 h 2 v 1 H 8 Z m 4,0 h 2 v 1 h -2 z"
+       d="m 13.5,6.8736842 v -3.873684 h -5 v 3.873684 z m -0.624993,-0.842105 h -1.250002 v -0.842105 h 1.250002 z m -2.500006,0 H 9.1250001 v -0.842105 h 1.2500009 z"
        inkscape:connector-curvature="0"
-       style="color:#dedede;fill:#d7f1f8;stroke-width:1.41419995;filter:url(#filter7554);enable-background:new;fill-opacity:1"
+       style="color:#dedede;fill:#d7f1f8;fill-opacity:1;stroke-width:1.02599;filter:url(#filter7554);enable-background:new"
        sodipodi:nodetypes="ccccccccccccccc" />
   </g>
   <g
      id="16-16-device-notifier"
-     transform="rotate(180,7.99995,33.993)">
+     transform="translate(0,34)">
     <rect
        id="rect5"
-       x="-4.9999999e-05"
-       y="25.993"
+       x="-15.99995"
+       y="-41.992996"
        width="16"
        height="16"
-       style="opacity:0" />
+       style="opacity:0"
+       transform="scale(-1)" />
     <rect
        id="rect7"
        class="ColorScheme-Text"
-       x="-4.9999999e-05"
-       y="25.993"
+       x="-15.99995"
+       y="-41.992996"
        width="16"
        height="16"
-       style="color:#dedede;fill-opacity:0" />
+       style="color:#dedede;fill-opacity:0"
+       transform="scale(-1)" />
     <path
        id="path9"
        class="ColorScheme-Text"
-       d="m 5,38.394 v 3.599 h 6 v -3.599 z"
+       d="M 9.8,30.874 V 27.993 H 6.3 v 2.881 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc"
-       style="color:#dedede;fill:#d7f1f8;fill-opacity:1;filter:url(#filter7554);enable-background:new" />
+       style="color:#dedede;fill:#d7f1f8;fill-opacity:1;stroke-width:0.683341;filter:url(#filter7554);enable-background:new" />
     <path
        id="rect853"
-       d="m 6,27 c -1.662,0 -3,1.338 -3,3 v 2 3 3 h 3 4 3 v -3 -3 -2 c 0,-1.662 -1.338,-3 -3,-3 z"
-       style="fill:#d7f1f8;fill-opacity:1"
+       d="M 9.2000024,39.992996 C 10.1972,39.992996 11,38.922092 11,37.591873 V 35.991131 33.590005 31.188893 H 9.2000024 6.8000015 5 v 2.401112 2.401126 1.600742 c 0,1.330219 0.8028003,2.401123 1.8000015,2.401123 z"
+       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.692978"
        inkscape:connector-curvature="0" />
   </g>
   <g
      id="device-notifier"
-     transform="rotate(180,16,-18)">
+     transform="translate(0,34)">
     <rect
        id="rect23"
-       y="-34"
+       y="2"
        width="32"
        height="32"
-       x="0"
-       style="opacity:0" />
+       x="-32"
+       style="opacity:0"
+       transform="scale(-1)" />
     <rect
        id="rect25"
        class="ColorScheme-Text"
-       y="-34"
+       y="2"
        width="32"
        height="32"
-       x="0"
-       style="color:#dedede;fill-opacity:0" />
+       x="-32"
+       style="color:#dedede;fill-opacity:0"
+       transform="scale(-1)" />
     <path
        id="path29"
-       d="M 11,-10.7 V -5 h 10 v -5.7 z m 2,1 h 2 v 2 h -2 z m 4,0 h 2 v 2 h -2 z"
-       style="color:#dedede;fill:#d7f1f8;fill-opacity:1;filter:url(#filter7554);enable-background:new"
+       d="M 19.5,-24.933331 V -30 h -7 v 5.066669 z m -1.399991,-0.888887 H 16.700003 V -27.6 h 1.400006 z m -2.800007,0 H 13.900008 V -27.6 h 1.399994 z"
+       style="color:#dedede;fill:#d7f1f8;fill-opacity:1;stroke-width:0.788808;filter:url(#filter7554);enable-background:new"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
-    <g
-       id="g24"
-       style="fill:#dedede">
-      <path
-         id="rect871"
-         d="m 14,-32 c -3.878,0 -7,3.122 -7,7 v 5 c 0,3.878 3.122,7 7,7 h 4 c 3.878,0 7,-3.122 7,-7 v -5 c 0,-3.878 -3.122,-7 -7,-7 z m -1,2 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 h -6 c -0.554,0 -1,-0.446 -1,-1 0,-0.554 0.446,-1 1,-1 z"
-         style="fill:#d7f1f8;fill-opacity:1"
-         inkscape:connector-curvature="0" />
-      <rect
-         id="rect873"
-         x="6.9999995"
-         y="-24"
-         width="18"
-         height="13"
-         ry="2"
-         style="fill:#d7f1f8;fill-opacity:1" />
-      <rect
-         id="rect881"
-         x="12"
-         y="-30"
-         width="8"
-         height="2"
-         rx="1"
-         ry="1"
-         style="opacity:0.01;fill:#00ffff;fill-opacity:1" />
-    </g>
+    <path
+       id="rect871"
+       d="M 17.333333,-6.0000004 C 19.918667,-6.0000004 22,-8.7751114 22,-12.222222 v -4.444444 c 0,-3.447111 -2.081333,-6.222222 -4.666667,-6.222222 H 14.666667 C 12.081333,-22.888888 10,-20.113777 10,-16.666666 v 4.444444 c 0,3.4471106 2.081333,6.2222216 4.666667,6.2222216 z M 18,-7.7777781 h -4 c -0.369333,0 -0.666667,-0.3964444 -0.666667,-0.8888888 0,-0.4924444 0.297334,-0.8888889 0.666667,-0.8888889 h 4 c 0.369334,0 0.666667,0.3964445 0.666667,0.8888889 0,0.4924444 -0.297333,0.8888888 -0.666667,0.8888888 z"
+       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.769801"
+       inkscape:connector-curvature="0" />
+    <rect
+       id="rect873"
+       x="-22"
+       y="13.111111"
+       width="12"
+       height="11.555554"
+       ry="1.7777777"
+       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.769801"
+       transform="scale(-1)" />
+    <rect
+       id="rect881"
+       x="-19.155556"
+       y="7.7777781"
+       width="7.1111107"
+       height="1.7777777"
+       rx="0.88888884"
+       ry="0.88888884"
+       style="opacity:0.01;fill:#00ffff;fill-opacity:1;stroke-width:0.888889"
+       transform="scale(-1)" />
   </g>
 </svg>
