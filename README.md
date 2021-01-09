@@ -29,3 +29,8 @@ Changelog: 12.12.2020.
 ----------------------
 
 Fixed widget: scrollbar.svg
+
+Changelog: 09.01.2021.
+----------------------
+
+Redesigned Theme
