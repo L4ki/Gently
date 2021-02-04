@@ -34,3 +34,8 @@ Changelog: 09.01.2021.
 ----------------------
 
 Redesigned Theme
+
+Changelog: 04.02.2021.
+----------------------
+
+Fixed Icons: printer.svg, input.svg, update.svg, media.svg, cantata.svg
