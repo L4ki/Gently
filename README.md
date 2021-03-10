@@ -44,3 +44,10 @@ Changelog: 25.02.2021.
 -----------------------
 
 Fixed widgets: tasks.svg, scrollbar.svg
+
+Changelog: 10.03.2021.
+----------------------
+
+Added icons: compass.svg, kaffeine.svg, kmail.svg, mail.svg
+
+Fixed icon: system.svg 
