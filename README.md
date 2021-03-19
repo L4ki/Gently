@@ -51,3 +51,8 @@ Changelog: 10.03.2021.
 Added icons: compass.svg, kaffeine.svg, kmail.svg, mail.svg
 
 Fixed icon: system.svg 
+
+Changelog: 19.03.2021.
+----------------------
+
+Added icons: activities.svg, konv_message.svg, konversation.svg, quassel.svg
