@@ -56,3 +56,10 @@ Changelog: 19.03.2021.
 ----------------------
 
 Added icons: activities.svg, konv_message.svg, konversation.svg, quassel.svg
+
+Changelog: 26.03.2021.
+----------------------
+
+Fixed widget: tabbar.svg
+
+Added icons: video-card.svg, pamac.svg, manjaro.svg
