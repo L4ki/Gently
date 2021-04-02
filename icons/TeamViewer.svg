@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="TeamViewer.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="9.8125"
+     inkscape:cx="-7.3894376"
+     inkscape:cy="23.617491"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12"
+     inkscape:document-rotation="0" />
+  <g
+     id="TeamViewer">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect7" />
+    <path
+       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.0276817"
+       d="m 16.4524,7.1639293 h 4.445674 v 1.350865 H 16.4524 Z M 12.134061,26.81514 h 5.013149 v 1.350865 H 12.134061 Z M 25.484926,12.177078 h 1.348096 V 7.1639293 h -5.013148 v 1.350865 h 3.662283 V 12.177078 Z M 7.1513621,23.152856 h -1.350865 v 5.013149 H 10.813646 V 26.81514 H 7.1513621 Z M 5.8032653,16.705797 h 1.3480968 v 5.013149 H 5.8004971 V 16.705797 Z M 25.484926,13.35078 h 1.348096 v 2.831834 H 25.482157 V 13.35078 Z M 15.015722,12.536939 H 2.4731616 V 4.1826145 H 15.015722 Z M 9.2579365,13.868427 H 8.2475559 v -1.378546 h 1.0103806 z m 2.7404845,1.195848 H 5.4295629 v -1.209689 h 6.5688581 z m 17.602767,10.591003 h -12.54256 v -8.354325 h 12.54256 z m -5.757785,1.331488 h -1.01038 v -1.378547 h 1.01038 z m 2.740484,1.195848 H 20.01503 v -1.209689 h 6.568857 z"
+       id="path4-6" />
+  </g>
+  <g
+     id="22-22-TeamViewer">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="32"
+       y="10.000001"
+       id="rect2" />
+    <path
+       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.0184544"
+       d="m 43.321494,15.136544 h 2.963783 v 0.900577 H 43.321494 Z M 40.442601,28.237351 H 43.7847 v 0.900577 h -3.342099 z m 8.900576,-9.758707 h 0.898732 v -3.3421 H 46.89981 v 0.900577 h 2.441522 v 2.441523 z m -12.222375,7.317185 h -0.900577 v 3.342099 h 3.342099 V 28.237351 H 37.120802 Z M 36.222071,21.49779 h 0.898731 v 3.342099 H 36.220225 V 21.49779 Z m 13.121106,-2.236678 h 0.898732 v 1.887889 h -0.900577 v -1.887889 z m -6.979469,-0.542561 h -8.361707 v -5.56955 h 8.361707 z m -3.838523,0.887659 h -0.673587 v -0.919031 h 0.673587 z m 1.826989,0.797232 h -4.379238 v -0.806459 h 4.379238 z m 11.735179,7.060668 h -8.361707 v -5.56955 h 8.361707 z m -3.838524,0.887659 h -0.673587 v -0.919031 h 0.673587 z m 1.82699,0.797232 H 45.69658 v -0.806459 h 4.379239 z"
+       id="path4-6-6" />
+  </g>
+</svg>
