@@ -63,3 +63,8 @@ Changelog: 26.03.2021.
 Fixed widget: tabbar.svg
 
 Added icons: video-card.svg, pamac.svg, manjaro.svg
+
+Changelog: 02.04.2021.
+----------------------
+
+Added Icons: choqok_offline, choqok. kalarm, plasmavault_error, plasmavault, TeamViewer, wallet, kteatime
