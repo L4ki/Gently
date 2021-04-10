@@ -35,6 +35,7 @@ Changelog: 09.01.2021.
 
 Redesigned Theme
 
+
 Changelog: 04.02.2021.
 ----------------------
 
@@ -68,3 +69,10 @@ Changelog: 02.04.2021.
 ----------------------
 
 Added Icons: choqok_offline, choqok. kalarm, plasmavault_error, plasmavault, TeamViewer, wallet, kteatime
+
+Changelog: 10.04.2021.
+---------------------
+
+Added icons: kate.svg, software.svg, utilities.svg
+
+Fixed widget: tasks.svg
