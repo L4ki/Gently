@@ -76,3 +76,10 @@ Changelog: 10.04.2021.
 Added icons: kate.svg, software.svg, utilities.svg
 
 Fixed widget: tasks.svg
+
+Changelog: 22.04.2021.
+----------------------
+
+Fixed icons: input.svg, update.svg
+
+Added icon: ktorrent.svg
