@@ -83,3 +83,8 @@ Changelog: 22.04.2021.
 Fixed icons: input.svg, update.svg
 
 Added icon: ktorrent.svg
+
+Changelog: 29.04.2021.
+----------------------
+
+Added icons: document.svg, korgac.svg, kpackagekit.svg
