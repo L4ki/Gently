@@ -89,4 +89,7 @@ Changelog: 29.04.2021.
 
 Added icons: document.svg, korgac.svg, kpackagekit.svg
 
-Changelog: Added icons: kget.svg, keyboard.svg, video.svg
+Changelog:06.05.2021.
+---------------------
+
+Added icons: kget.svg, keyboard.svg, video.svg
