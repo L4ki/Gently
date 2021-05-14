@@ -93,3 +93,5 @@ Changelog:06.05.2021.
 ---------------------
 
 Added icons: kget.svg, keyboard.svg, video.svg
+
+Changelog: Added new icons: akonadi.svg,kgpg.svg
