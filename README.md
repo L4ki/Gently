@@ -98,3 +98,8 @@ Changelog: 14.05.2021.
 ----------------------
 
 Changelog: Added new icons: akonadi.svg,kgpg.svg
+
+Changelog: 22.05.2021.
+----------------------
+
+Added icons: kopete.svg, dropbox.svg, go.svg
