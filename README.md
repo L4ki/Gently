@@ -103,3 +103,8 @@ Changelog: 22.05.2021.
 ----------------------
 
 Added icons: kopete.svg, dropbox.svg, go.svg
+
+Changelog: 29.05.2021.
+----------------------
+
+Added icons: slc.svg, kruler.svg, audacious.svg, elise.svg
