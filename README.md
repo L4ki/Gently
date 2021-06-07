@@ -108,3 +108,8 @@ Changelog: 29.05.2021.
 ----------------------
 
 Added icons: slc.svg, kruler.svg, audacious.svg, elise.svg
+
+Changelog: 07.06.2021.
+----------------------
+
+Added icons: user.svg, kup.svg
