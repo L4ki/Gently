@@ -118,3 +118,8 @@ Changelog: 19.06.2021.
 ---------------------
 
 Enable "Adaptive Transparency" for Plasma 5.22
+
+Changelog: 27.06.2021.
+----------------------
+
+Fixed icon: elise.svg
