@@ -128,3 +128,8 @@ Changelog: 06.07.2021.
 ---------------------
 
 Fixed icon: kup.svg
+
+Changelog: 24.07.2021.
+----------------------
+
+Fixed icon: juk.svg
