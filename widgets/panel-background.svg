@@ -13,7 +13,7 @@
    height="210.939"
    version="1"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata106">
     <rdf:RDF>
@@ -22,12 +22,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#000000"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -35,17 +36,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1007"
      id="namedview104"
      showgrid="false"
-     inkscape:zoom="2.9771642"
-     inkscape:cx="75.213911"
-     inkscape:cy="63.313289"
+     inkscape:zoom="2.105173"
+     inkscape:cx="129.65352"
+     inkscape:cy="121.52955"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3642"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false" />
   <defs
      id="defs3644">
     <radialGradient
