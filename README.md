@@ -143,3 +143,9 @@ Changelog:07.08.2021.
 ---------------------
 
 Fixed widgets: plasmoidheading.svg, panel-background.svg
+
+
+Changelog:14.08.2021.
+---------------------
+
+Correction Colors File 
