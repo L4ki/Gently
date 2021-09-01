@@ -149,3 +149,8 @@ Changelog:14.08.2021.
 ---------------------
 
 Correction colors file 
+
+Changelog: 01.09.2021.
+----------------------
+
+Fixed widgets: action-overlays.svg, actionbutton.svg
