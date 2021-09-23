@@ -164,3 +164,8 @@ Changelog: 15.09.2021.
 ----------------------
 
 Fixed icons: kmail.svg, mail.svg
+
+Changelog: 23.09.2021.
+----------------------
+
+Fixed widget: scrollbar.svg
