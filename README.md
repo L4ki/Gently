@@ -174,3 +174,8 @@ Changelog: 30.09.2021.
 ----------------------
 
 Fixed widget: TeamViewer, touchpad
+
+Changelog: 08.10.2021.
+----------------------
+
+Fixed icons: choqok_offline.svg, choqok.svg
