@@ -179,3 +179,8 @@ Changelog: 08.10.2021.
 ----------------------
 
 Fixed icons: choqok_offline.svg, choqok.svg
+
+Changelog: 16.10.2021.
+----------------------
+
+Fixed icon: system.svg
