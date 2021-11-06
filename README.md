@@ -199,4 +199,9 @@ Changelog: 30.10.2021.
 
 Fixed widget: tasks.svg
 
+Changelog: 06.11.2021.
+----------------------
+
+Fixed widget: viewitem.svg
+
 
