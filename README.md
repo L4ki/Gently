@@ -209,5 +209,10 @@ Changelog: 13.11.2021.
 
 Fixed widget: clock.svg
 
+Changelog: 13.11.2021.
+----------------------
+
+Fixed icon: activities.svg
+
 
 
