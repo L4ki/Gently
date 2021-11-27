@@ -214,5 +214,10 @@ Changelog: 20.11.2021.
 
 Fixed icon: activities.svg
 
+Changelog: 27.11.2021.
+----------------------
+
+Fixed widget: slider.svg
+
 
 
