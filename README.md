@@ -220,4 +220,9 @@ Changelog: 27.11.2021.
 Fixed widget: slider.svg
 
 
+Changelog: 04.12.2021.
+----------------------
+
+Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
+
 
