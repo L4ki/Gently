@@ -226,3 +226,9 @@ Changelog: 04.12.2021.
 Update widgets: bar_meter_horizontal.svg, bar_meter_vertical.svg
 
 
+Changelog: 11.12.2021.
+----------------------
+
+Update widget: tasks.svg
+
+
