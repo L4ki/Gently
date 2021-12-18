@@ -235,6 +235,6 @@ Update widget: tasks.svg
 Changelog: 18.12.2021.
 ----------------------
 
-Update widget: slc.svg
+Update icon: slc.svg
 
 
