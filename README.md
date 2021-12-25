@@ -238,3 +238,9 @@ Changelog: 18.12.2021.
 Update icon: slc.svg
 
 
+Changelog: 25.12.2021.
+----------------------
+
+Update widget: listitem.svg
+
+
