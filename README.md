@@ -244,3 +244,9 @@ Changelog: 25.12.2021.
 Update widget: listitem.svg
 
 
+Changelog: 01.01.2022.
+----------------------
+
+Update widget: tabbar.svg
+
+
