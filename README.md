@@ -249,4 +249,9 @@ Changelog: 01.01.2022.
 
 Update widget: tabbar.svg
 
+Changelog: 08.01.2022.
+----------------------
+
+Update widget: panel-background.svg
+
 
