@@ -254,4 +254,11 @@ Changelog: 08.01.2022.
 
 Update widget: panel-background.svg
 
+Changelog: 15.01.2022.
+----------------------
+
+Update widget: calendar.svg
+
+Added widget: checkmarks.svg
+
 
