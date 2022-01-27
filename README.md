@@ -267,5 +267,11 @@ Changelog: 23.01.2022.
 Update widget: lineedit.svg
 
 
+Changelog: 30.01.2022.
+----------------------
+
+Update widget: button.svg
+
+
 
 
