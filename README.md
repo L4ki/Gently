@@ -272,6 +272,11 @@ Changelog: 30.01.2022.
 
 Update widget: button.svg
 
+Changelog: 06.02.2022.
+----------------------
+
+Update widget: slider.svg
+
 
 
 
