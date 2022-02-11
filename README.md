@@ -277,6 +277,11 @@ Changelog: 06.02.2022.
 
 Update widget: slider.svg
 
+Changelog: 13.02.2022.
+----------------------
+
+Update widget: tasks.svg
+
 
 
 
