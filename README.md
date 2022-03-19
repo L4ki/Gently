@@ -304,4 +304,9 @@ Changelog: 13.03.2022.
 
 Update widget:scrollwidget.svg
 
+Changelog: 20.03.2022.
+----------------------
+
+Update icon: pamac.svg
+
 
