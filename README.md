@@ -309,4 +309,10 @@ Changelog: 20.03.2022.
 
 Update icon: pamac.svg
 
+Changelog: 27.03.2022.
+----------------------
+
+Update icon: software.svg
+
+
 
