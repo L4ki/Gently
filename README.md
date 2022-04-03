@@ -314,5 +314,10 @@ Changelog: 27.03.2022.
 
 Update icon: software.svg
 
+Changelog: 03.04.2022.
+----------------------
+
+Update icon: elisa.svg
+
 
 
