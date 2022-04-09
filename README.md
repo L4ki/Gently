@@ -319,5 +319,11 @@ Changelog: 03.04.2022.
 
 Update icon: elisa.svg
 
+Changelog: 10.04.2022.
+----------------------
+
+Update icon: konversation.svg, view.svg
+
+
 
 
