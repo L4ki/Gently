@@ -4,7 +4,7 @@
    viewBox="0 0 288 224"
    version="1.1"
    sodipodi:docname="button.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -140,13 +140,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1007"
      id="namedview317"
      showgrid="false"
      inkscape:current-layer="svg2"
-     inkscape:zoom="1.489975"
-     inkscape:cx="151.6804"
-     inkscape:cy="132.88814"
+     inkscape:zoom="4.2142857"
+     inkscape:cx="219.84746"
+     inkscape:cy="152.57627"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1589,145 +1589,145 @@
      id="toolbutton-hover-bottom"
      transform="translate(238,140)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="path1565-7-9"
        d="m 4,-11 v 3 h 22 v -3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1565-4"
        d="m 4,-9 v 1 h 22 v -1 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-bottomright"
      transform="translate(238,140)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="rect1509-7-9-6-2-2"
        d="m 27,-8 v -3 h 3 c 0,1.662 -1.338,3 -3,3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1561-6"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-right"
      transform="translate(238,140)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="path1565-7-8-1"
        d="m 27,-12 h 3 v -22 h -3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1559-2"
        d="m 29,-34 v 22 h 1 v -22 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-top"
      transform="rotate(180,134,47)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="path1565-7-9-8"
        d="m 4,-11 v 3 h 22 v -3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1565-4-9"
        d="m 4,-9 v 1 h 22 v -1 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-topleft"
      transform="rotate(180,134,47)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="rect1509-7-9-6-2-2-8"
        d="m 27,-8 v -3 h 3 c 0,1.662 -1.338,3 -3,3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1561-6-8"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-left"
      transform="rotate(180,134,47)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="path1565-7-8-1-6"
        d="m 27,-12 h 3 v -22 h -3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1559-2-8"
        d="m 29,-34 v 22 h 1 v -22 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-topright"
      transform="matrix(1,0,0,-1,238,94)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="rect1509-7-9-6-2-2-83"
        d="m 27,-8 v -3 h 3 c 0,1.662 -1.338,3 -3,3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1561-6-3"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <g
      id="toolbutton-hover-bottomleft"
      transform="matrix(-1,0,0,1,268,140)"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1">
+     style="fill:#006dda;fill-opacity:0.5;opacity:1">
     <path
        id="rect1509-7-9-6-2-2-0"
        d="m 27,-8 v -3 h 3 c 0,1.662 -1.338,3 -3,3 z"
        fill-opacity="0.00392199"
        opacity="0.00100002"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
     <path
        id="path1561-6-4"
        d="m 29,-11 c 0,1.108 -0.892,2 -2,2 v 1 c 1.662,0 3,-1.338 3,-3 z"
        class="ColorScheme-ButtonHover"
        fill="currentColor"
-       style="fill:#006dda;fill-opacity:1" />
+       style="fill:#006dda;fill-opacity:0.5" />
   </g>
   <path
      id="toolbutton-hover-center"
@@ -1735,7 +1735,7 @@
      fill-opacity=".003922"
      fill-rule="evenodd"
      opacity=".001"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.5;opacity:1" />
   <rect
      id="toolbutton-hover-hint-top-margin"
      x="252"
@@ -1744,7 +1744,7 @@
      height="4"
      fill="#ff00ff"
      fill-rule="evenodd"
-     style="stroke-width:0.999996;opacity:0.01;fill:#006dda;fill-opacity:1" />
+     style="stroke-width:0.999996;opacity:1;fill:#006dda;fill-opacity:0.5" />
   <rect
      id="toolbutton-hover-hint-bottom-margin"
      x="252"
@@ -1753,7 +1753,7 @@
      height="4"
      fill="#ff00ff"
      fill-rule="evenodd"
-     style="stroke-width:0.999996;fill:#006dda;opacity:0.01;fill-opacity:1" />
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.5" />
   <rect
      id="toolbutton-hover-hint-right-margin"
      x="264"
@@ -1762,9 +1762,9 @@
      height="2"
      fill="#ff00ff"
      fill-rule="evenodd"
-     style="stroke-width:0.999996;fill:#006dda;opacity:0.01;fill-opacity:1" />
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.5" />
   <rect
-     style="fill:#006dda;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999996;opacity:0.01"
+     style="fill:#006dda;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.999996;opacity:1"
      id="toolbutton-hover-hint-left-margin"
      width="4"
      height="2"
@@ -2022,83 +2022,83 @@
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-topleft"
      d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 3 v -2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-center"
      d="m242 182h22v22h-22z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-bottom"
      d="m 264,208 v -3 h -22 v 3 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-bottomright"
      d="m 265,208 c 1.662,0 3,-1.338 3,-3 h -3 v 2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-right"
      d="m 268,182 h -3 v 22 h 3 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-topright"
      d="m 268,181 c 0,-1.662 -1.338,-3 -3,-3 v 3 h 2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-left"
      d="m 238,204 h 3 v -22 h -3 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
      id="toolbutton-pressed-bottomleft"
      d="m 238,205 c 0,1.662 1.338,3 3,3 v -3 h -2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:1" />
+     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:0.01;fill-opacity:1"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
      id="toolbutton-pressed-hint-top-margin"
      d="m 252,178 h 2 v 4 h -2 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:0.01;fill-opacity:1"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
      id="toolbutton-pressed-hint-bottom-margin"
      d="m 252,204 h 2 v 4 h -2 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:0.01;fill-opacity:1"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
      id="toolbutton-pressed-hint-left-margin"
      d="m 238,192 h 4 v 2 h -4 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:0.01;fill-opacity:1"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
      id="toolbutton-pressed-hint-right-margin"
      d="m 264,192 h 4 v 2 h -4 z"
      fill="#ff00ff"

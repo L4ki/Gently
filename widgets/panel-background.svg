@@ -5,7 +5,7 @@
    viewBox="0 0 72.000031 188"
    id="svg2"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="panel-background.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -90,9 +90,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.781801"
-     inkscape:cx="57.806681"
-     inkscape:cy="121.22566"
+     inkscape:zoom="1.7818011"
+     inkscape:cx="32.831948"
+     inkscape:cy="92.322315"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -100,7 +100,7 @@
      borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="1007"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -114,7 +114,7 @@
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:document-rotation="0"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
@@ -126,7 +126,7 @@
        position="93,196.00002"
        orientation="0,1"
        id="guide1808"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -421,7 +421,7 @@
          height="32"
          width="1.0000226"
          id="rect907"
-         style="opacity:0.1;fill:#050e15;fill-opacity:1;stroke:none;stroke-width:0.408253"
+         style="opacity:1;fill:#143152;fill-opacity:0.3019608;stroke:none;stroke-width:0.408253"
          transform="matrix(0,-1,-1,0,0,0)" />
     </g>
     <g
@@ -459,7 +459,7 @@
          style="fill:none;fill-opacity:1"
          transform="scale(-1,1)" />
       <path
-         style="opacity:0.1;fill:#050e15;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.71428px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="opacity:1;fill:#143152;fill-opacity:0.3019608;fill-rule:evenodd;stroke:none;stroke-width:1.71428px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 76,5 c -3.323987,0 -6,2.6760127 -6,6 v 1 h 1 v -1 c 0,-2.7699873 2.230013,-5 5,-5 h 1 V 5 Z"
          transform="translate(-58,904.36218)"
          id="path898" />
@@ -493,7 +493,7 @@
          y="-50.999985" />
       <rect
          transform="rotate(90)"
-         style="opacity:0.1;fill:#050e15;fill-opacity:1;stroke:none;stroke-width:0.408244"
+         style="opacity:1;fill:#143152;fill-opacity:0.3019608;stroke:none;stroke-width:0.408244"
          id="rect915"
          width="0.99997741"
          height="32"
@@ -529,7 +529,7 @@
          y="916.36218" />
       <rect
          transform="scale(-1,1)"
-         style="opacity:0.1;fill:#050e15;fill-opacity:1;stroke:none;stroke-width:0.408249"
+         style="opacity:1;fill:#143152;fill-opacity:0.3019608;stroke:none;stroke-width:0.408249"
          id="rect903"
          width="1.0000019"
          height="32"
@@ -566,7 +566,7 @@
          height="32"
          width="1.0000153"
          id="rect911"
-         style="opacity:0.1;fill:#050e15;fill-opacity:1;stroke:none;stroke-width:0.408251" />
+         style="opacity:1;fill:#143152;fill-opacity:0.3019608;stroke:none;stroke-width:0.408251" />
     </g>
     <g
        id="shadow-center"
