@@ -324,6 +324,11 @@ Changelog: 10.04.2022.
 
 Update icon: konversation.svg, view.svg
 
+Changelog: 17.04.2022.
+----------------------
+
+Redesigned theme
+
 
 
 
