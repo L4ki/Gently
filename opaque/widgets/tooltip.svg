@@ -6,7 +6,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="background.svg"
+   sodipodi:docname="tooltip.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -918,12 +918,12 @@
          height="31.99992"
          width="5.4000273"
          id="rect4152"
-         style="opacity:1;fill:#050e15;fill-opacity:0.50196081;stroke:none"
+         style="opacity:1;fill:#050e15;fill-opacity:1;stroke:none"
          transform="matrix(0,-1,-1,0,0,0)"
          class="ColorScheme-Background" />
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
-         style="opacity:1;fill:#143152;fill-opacity:0.3019608;stroke:none"
+         style="opacity:0.35;fill:#050e15;fill-opacity:0.50196081;stroke:none"
          id="rect985"
          width="0.59997272"
          height="32.000015"
@@ -937,7 +937,7 @@
        height="19.999992"
        width="19.999992"
        id="center"
-       style="opacity:1;fill:#050e15;fill-opacity:0.50196081;stroke:none;stroke-width:0.625" />
+       style="opacity:1;fill:#050e15;fill-opacity:1;stroke:none;stroke-width:0.625" />
     <rect
        style="fill:#008080;fill-opacity:1;stroke:none;stroke-width:1.1547;opacity:0.01"
        id="hint-top-margin"
@@ -1117,12 +1117,12 @@
       <path
          class="ColorScheme-Background"
          id="rect4177-6-1-8-7-2-6-3-6"
-         style="opacity:1;fill:#050e15;fill-opacity:0.5;stroke-width:0.699999"
+         style="opacity:1;fill:#050e15;fill-opacity:1;stroke-width:0.699999"
          d="m 58,924.3622 -3e-6,-8.99999 c -5.399986,0 -8.999923,3.60001 -8.999977,8.99999 z"
          sodipodi:nodetypes="cssc" />
       <path
          id="path1039"
-         style="opacity:1;fill:#143152;fill-opacity:0.30000001;stroke-width:0.9;stop-color:#eff0f1"
+         style="opacity:0.35;fill:#050e15;fill-opacity:0.50196081;stroke-width:0.9;stop-color:#eff0f1"
          d="m 56.00002,9.00002 c -5.4,0 -9,3.6 -9,9 L 48,18 c 4.8e-5,-4.79999 3.200008,-8 8,-8 z"
          transform="translate(2,906.36218)"
          sodipodi:nodetypes="ccccc" />

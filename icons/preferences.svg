@@ -10,7 +10,7 @@
    viewBox="0 0 22 22"
    id="svg"
    version="1.1"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    width="22"
    height="22"
    sodipodi:docname="preferences.svg">
@@ -45,12 +45,12 @@
      inkscape:pageopacity="0.10196078"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1024"
+     inkscape:window-height="1016"
      id="namedview32"
      showgrid="false"
-     inkscape:zoom="16"
-     inkscape:cx="17.597072"
-     inkscape:cy="24.198139"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="38.740749"
+     inkscape:cy="81.847445"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -63,7 +63,7 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-global="true"
      inkscape:bbox-nodes="true"
-     inkscape:lockguides="true"
+     inkscape:lockguides="false"
      inkscape:document-rotation="0">
     <inkscape:grid
        originy="0"
@@ -82,22 +82,22 @@
        orientation="0,1"
        position="23,19"
        id="guide3820"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="24,3"
        id="guide3822"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="11,10"
        id="guide3824"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="21,11"
        id="guide3826"
-       inkscape:locked="true" />
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <g
      id="preferences-desktop-display-randr"
@@ -111,7 +111,7 @@
        y="1" />
     <path
        id="rect7235"
-       style="fill:#d1e5ff;fill-opacity:1;stroke:none;stroke-width:0.882352"
+       style="fill:#d7f1f8;fill-opacity:1;stroke:none;stroke-width:0.882352"
        d="m 7.1117749,18.517635 h 8.8235531 v 0.882366 H 7.1117749 Z M 9.75884,16.752927 h 3.529409 v 1.764701 H 9.75884 Z M 2.7,4.4 V 16.752915 H 20.34707 V 4.4 Z M 3.5823528,5.2823528 H 19.464714 V 14.105864 H 3.5823528 Z"
        class="ColorScheme-Text"
        inkscape:connector-curvature="0"

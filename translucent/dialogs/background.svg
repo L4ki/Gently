@@ -1122,7 +1122,7 @@
          sodipodi:nodetypes="cssc" />
       <path
          id="path1039"
-         style="opacity:1;fill:#143152;fill-opacity:0.30000001;stroke-width:0.9;stop-color:#eff0f1"
+         style="opacity:1;fill:#143152;fill-opacity:0.3019608;stroke-width:0.9;stop-color:#eff0f1"
          d="m 56.00002,9.00002 c -5.4,0 -9,3.6 -9,9 L 48,18 c 4.8e-5,-4.79999 3.200008,-8 8,-8 z"
          transform="translate(2,906.36218)"
          sodipodi:nodetypes="ccccc" />
@@ -1134,7 +1134,8 @@
        id="topright"
        xlink:href="#topleft"
        y="0"
-       x="0" />
+       x="0"
+       style="fill:#0f233e;fill-opacity:0.2" />
     <use
        height="100%"
        width="100%"
