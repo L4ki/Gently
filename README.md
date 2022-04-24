@@ -329,6 +329,11 @@ Changelog: 17.04.2022.
 
 Redesigned theme
 
+Changelog: 24.04.2022.
+----------------------
+
+update icon: pamac.svg
+
 
 
 
