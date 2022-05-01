@@ -334,6 +334,11 @@ Changelog: 24.04.2022.
 
 update icon: pamac.svg
 
+Changelog: 01.05.2022.
+----------------------
+
+update icon: input.svg
+
 
 
 
