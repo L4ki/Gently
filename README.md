@@ -339,6 +339,10 @@ Changelog: 01.05.2022.
 
 update icon: input.svg
 
+Changelog: 08.05.2022.
+----------------------
+
+Update icons: akregator.svg, choqok_offline.svg
 
 
 
