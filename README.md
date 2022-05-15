@@ -344,5 +344,10 @@ Changelog: 08.05.2022.
 
 Update icons: akregator.svg, choqok_offline.svg
 
+Changelog: 15.05.2022.
+----------------------
+
+Update icon: compass.svg
+
 
 
