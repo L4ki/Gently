@@ -349,5 +349,10 @@ Changelog: 15.05.2022.
 
 Update icon: compass.svg
 
+Changelog: 22.05.2022.
+----------------------
+
+Update icon: document.svg
+
 
 
