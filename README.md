@@ -354,5 +354,10 @@ Changelog: 22.05.2022.
 
 Update icon: document.svg
 
+Changelog: 29.05.2022.
+----------------------
+
+Update widget: tasks.svg
+
 
 
