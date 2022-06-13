@@ -364,6 +364,11 @@ Changelog: 05.06.2022.
 
 Update icons: klipper.svg, preferences.svg, video.svg
 
+Changelog: 13.06.2022.
+----------------------
+
+Update icons: plasmavault, plasmavault_error, phone, utilities, wallet, choqok, choqok_offline
+
 
 
 
