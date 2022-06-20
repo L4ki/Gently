@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="plasmavault.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,28 +36,29 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="4.90625"
-     inkscape:cx="24.968153"
-     inkscape:cy="21.401274"
+     inkscape:zoom="9.8125003"
+     inkscape:cx="33.885349"
+     inkscape:cy="16.866242"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid860"
-       originx="7.0254779"
-       originy="65.324844" />
+       id="grid963" />
   </sodipodi:namedview>
   <g
      id="plasmavault"
-     transform="translate(7.0254779,65.324844)">
+     transform="translate(7.0254779,65.324844)"
+     style="fill:#d7f1f8;fill-opacity:1">
     <rect
        style="opacity:0.00100002;fill:#d7f1f8;fill-opacity:1"
        width="32"
@@ -70,14 +71,15 @@
        id="path2-67"
        style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.100003" />
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d7f1f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11654;marker:none;enable-background:accumulate"
-       d="m -0.9631067,-59.324761 c -1.11212,0 -2.062371,0.817118 -2.062371,1.901774 v 16.004615 c 0,1.093531 0.686009,1.603661 0.686009,1.603661 0,0 0.313991,0.489874 1.522321,0.48987 l 19.0629607,-6.1e-5 c 0.457664,0.0081 0.444648,-0.993112 1.08e-4,-0.999939 H -0.8435187 c -0.54775,0 -0.890945,-0.181581 -0.890945,-0.181581 0,0 -0.291014,-0.289575 -0.291014,-0.912007 v -16.004615 c 0,-0.05728 0.018,-0.901797 1.012613,-0.901797 h 6.710161 l 3.199778,2.8089 c 0.09669,0.0894 0.22048,0.188245 0.349405,0.1911 h 9.3041837 c 0.474407,-0.0028 0.459415,-0.9922 -0.015,-1 H 9.4424793 l -3.391836,-2.866072 c -0.09789,-0.08616 -0.221559,-0.133565 -0.349407,-0.133928 z m 10.937628,0.99992 c -0.432935,-0.0012 -0.44462,0.993488 0,1 h 8.1946967 0.805303 c 1,0 0.974522,1.046931 0.974522,1.046931 l 0.02548,16.381586 c 0.0025,0.531169 0.998181,0.548654 1.000002,0.01828 l 0.01946,-16.490894 c 0.0013,-1.083267 -0.644321,-1.955903 -2.019467,-1.955903 h -1 -7.9999997 c -0.01704,-8.57e-4 0,0 0,0 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#d7f1f8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11609;marker:none;enable-background:accumulate"
+       d="m -0.96477769,-59.324764 c -1.11121901,0 -2.06070001,0.817118 -2.06070001,1.901774 v 16.004615 c 0,1.093531 0.6854532,1.603661 0.6854532,1.603661 0,0 0.3137365,0.489874 1.52108755,0.48987 l 19.04751495,-6.1e-5 c 0.457294,0.0081 0.444288,-0.993112 1.08e-4,-0.999939 H -0.84528659 c -0.54730621,0 -0.89022311,-0.181581 -0.89022311,-0.181581 0,0 -0.2907783,-0.289575 -0.2907783,-0.912007 v -16.004615 c 0,-0.05728 0.017985,-0.901797 1.0117926,-0.901797 h 6.7047242 l 3.1971855,2.8089 c 0.096612,0.0894 0.2203013,0.188245 0.3491219,0.1911 h 9.2966448 c 0.474023,-0.0028 0.459043,-0.9922 -0.01499,-1 H 9.4323773 l -3.3890877,-2.866072 c -0.097811,-0.08616 -0.2213796,-0.133565 -0.349124,-0.133928 z m 10.92876599,0.99992 c -0.4325843,-0.0012 -0.4442598,0.993488 0,1 h 8.1880567 0.804651 c 0.999189,0 0.973732,1.046931 0.973732,1.046931 l 0.02546,16.381586 c 0.0025,0.531169 0.997373,0.548654 0.999192,0.01828 l 0.01944,-16.490894 c 0.0013,-1.083267 -0.643799,-1.955903 -2.01783,-1.955903 H 17.957503 9.9639853 c -0.017026,-8.57e-4 0,0 0,0 z"
        id="path2-3-3-53"
        sodipodi:nodetypes="ssscsccscscsccccccccscccccccscccc" />
   </g>
   <g
      id="22-22-plasmavault"
-     transform="translate(7.0254779,65.324844)">
+     transform="translate(7.0254779,65.324844)"
+     style="fill:#d7f1f8;fill-opacity:1">
     <rect
        style="opacity:0.00100002;fill:#d7f1f8;fill-opacity:1"
        width="22"
