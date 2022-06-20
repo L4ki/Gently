@@ -370,5 +370,11 @@ Changelog: 13.06.2022.
 Update icons: plasmavault, plasmavault_error, phone, utilities, wallet, choqok, choqok_offline
 
 
+Changelog: 20.06.2022.
+----------------------
+
+Update icons: quassel, touchpad, plasmavault, plasmavault_error, konversation, konv_message
+
+
 
 
