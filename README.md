@@ -375,6 +375,10 @@ Changelog: 20.06.2022.
 
 Update icons: quassel, touchpad, plasmavault, plasmavault_error, konversation, konv_message
 
+Changelog: 27.06.2022.
+----------------------
+
+Update icons: touchpad, kaffeine
 
 
 
