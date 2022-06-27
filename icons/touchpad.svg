@@ -40,8 +40,8 @@
      id="namedview24"
      showgrid="false"
      inkscape:zoom="6.9384853"
-     inkscape:cx="55.7038"
-     inkscape:cy="-3.6751537"
+     inkscape:cx="44.31803"
+     inkscape:cy="12.53876"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,7 +49,7 @@
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
@@ -67,7 +67,7 @@
        y="0"
        id="rect12" />
     <path
-       d="M 28,3.9999998 H 4 c -1.6561,0.00182 -2.998181,1.3438997 -3,3 V 25 c 0.0018,1.6561 1.3439,2.998181 3,3 h 24 c 1.6561,-0.0018 2.998181,-1.3439 3,-3 V 6.9999998 c -0.0018,-1.6561003 -1.3439,-2.9981813 -3,-3 z m -24,1 h 24.1 c 0.9,0 1.9,1 1.9,2 V 19 H 2 V 6.9999998 c 0,-1 1,-2 2,-2 z M 2,25 v -5 h 13.5 v 7 H 4 C 3,27 2,26 2,25 Z m 26,2 H 16.5 V 20 H 30 v 5 c 0,1 -1,2 -2,2 z"
+       d="M 28,3.9999998 H 4 c -1.6561,0.00182 -2.998181,1.3438997 -3,3 V 25 c 0.0018,1.6561 1.3439,2.998181 3,3 h 24 c 1.6561,-0.0018 2.998181,-1.3439 3,-3 V 6.9999998 c -0.0018,-1.6561003 -1.3439,-2.9981813 -3,-3 z m -24,1 h 24.1 c 0.9,0 1.9,1 1.9,2 V 19 H 2 V 6.9999998 c 0,-1 1,-2 2,-2 z M 2,25 v -5 h 13 v 7 H 4 C 3,27 2,26 2,25 Z m 26,2 H 17 v -7 h 13 v 5 c 0,1 -1,2 -2,2 z"
        id="path4-3"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc"
        style="fill:#d7f1f8;fill-opacity:1" />
@@ -82,7 +82,7 @@
        y="0"
        id="rect17" />
     <path
-       d="M 60,4 H 36 c -1.6561,0.0018 -2.998181,1.3439 -3,3 v 18 c 0.0018,1.6561 1.3439,2.998181 3,3 h 24 c 1.6561,-0.0018 2.998181,-1.3439 3,-3 V 7 C 62.9982,5.3439 61.6561,4.001819 60,4 Z M 36,5 H 60.1 C 61,5 62,6 62,7 V 19 H 34 V 7 c 0,-1 1,-2 2,-2 z m -2,20 v -5 h 13.5 v 7 H 36 c -1,0 -2,-1 -2,-2 z m 26,2 H 48.5 V 20 H 62 v 5 c 0,1 -1,2 -2,2 z"
+       d="M 60,4 H 36 c -1.6561,0.0018 -2.998181,1.3439 -3,3 v 18 c 0.0018,1.6561 1.3439,2.998181 3,3 h 24 c 1.6561,-0.0018 2.998181,-1.3439 3,-3 V 7 C 62.9982,5.3439 61.6561,4.001819 60,4 Z M 36,5 H 60.1 C 61,5 62,6 62,7 V 19 H 34 V 7 c 0,-1 1,-2 2,-2 z m -2,20 v -5 h 13 v 7 H 36 c -1,0 -2,-1 -2,-2 z m 26,2 H 49 v -7 h 13 v 5 c 0,1 -1,2 -2,2 z"
        id="path4-3-6"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc"
        style="fill:#e50061;fill-opacity:1" />
