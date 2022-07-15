@@ -385,4 +385,9 @@ Changelog: 04.07.2022.
 
 Update widget: slider.svg
 
+Changelog: 15.07.2022.
+----------------------
+
+Update icons: plasmavault.svg, plasmavault_error.svg
+
 
