@@ -390,4 +390,9 @@ Changelog: 15.07.2022.
 
 Update icons: plasmavault.svg, plasmavault_error.svg
 
+Changelog: 24.07.2022.
+----------------------
+
+Update widget: action-overlays.svg
+
 
