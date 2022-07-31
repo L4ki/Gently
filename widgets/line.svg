@@ -6,7 +6,7 @@
    height="45"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    version="1.0"
    sodipodi:docname="line.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
@@ -31,15 +31,15 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.780128"
-     inkscape:cx="23.132176"
-     inkscape:cy="26.060837"
+     inkscape:cx="23.174621"
+     inkscape:cy="26.18817"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1000"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -51,7 +51,8 @@
      inkscape:showpageshadow="true"
      borderlayer="false"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        enabled="true"
        visible="true"
@@ -159,7 +160,7 @@
          inkscape:label="#path2992" />
       <path
          inkscape:label="#path2992"
-         style="color:#eff0f1;opacity:1;fill:#002133;fill-opacity:1;stroke:none"
+         style="color:#eff0f1;opacity:1;fill:#002133;fill-opacity:0.01;stroke:none"
          d="m 75.690972,56.529 h -40 v 1 h 40 z"
          id="path2992"
          inkscape:connector-curvature="0"
@@ -168,8 +169,8 @@
          class="ColorScheme-Text"
          inkscape:connector-curvature="0"
          id="path3787"
-         d="m 75.690972,57.329 h -40 v 0.2 h 40 z"
-         style="color:#31363b;fill:#00334d;fill-opacity:1;stroke:none;stroke-width:0.447214"
+         d="m 75.690972,57.329 h -40 v 0.1 h 40 z"
+         style="color:#31363b;fill:#004266;fill-opacity:1;stroke:none;stroke-width:0.316228"
          inkscape:label="#path2992" />
     </g>
   </g>

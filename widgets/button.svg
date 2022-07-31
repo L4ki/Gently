@@ -4,7 +4,7 @@
    viewBox="0 0 288 224"
    version="1.1"
    sodipodi:docname="button.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -140,19 +140,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1000"
      id="namedview317"
      showgrid="false"
      inkscape:current-layer="svg2"
-     inkscape:zoom="4.2142857"
-     inkscape:cx="219.84746"
-     inkscape:cy="152.57627"
+     inkscape:zoom="2.1071429"
+     inkscape:cx="109.15254"
+     inkscape:cy="131.22034"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid1136" />
@@ -1744,7 +1745,7 @@
      height="4"
      fill="#ff00ff"
      fill-rule="evenodd"
-     style="stroke-width:0.999996;opacity:1;fill:#006dda;fill-opacity:0.5" />
+     style="stroke-width:0.999996;opacity:1;fill:#006dda;fill-opacity:0.01" />
   <rect
      id="toolbutton-hover-hint-bottom-margin"
      x="252"
@@ -1753,7 +1754,7 @@
      height="4"
      fill="#ff00ff"
      fill-rule="evenodd"
-     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.5" />
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.01" />
   <rect
      id="toolbutton-hover-hint-right-margin"
      x="264"
@@ -1762,9 +1763,9 @@
      height="2"
      fill="#ff00ff"
      fill-rule="evenodd"
-     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.5" />
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.01" />
   <rect
-     style="fill:#006dda;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.999996;opacity:1"
+     style="fill:#006dda;fill-opacity:0.01;fill-rule:evenodd;stroke-width:0.999996;opacity:1"
      id="toolbutton-hover-hint-left-margin"
      width="4"
      height="2"
@@ -2022,83 +2023,83 @@
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:1;opacity:1" />
   <path
      id="toolbutton-pressed-topleft"
      d="m 241,178 c -1.662,0 -3,1.338 -3,3 h 3 v -2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:0.9745605;opacity:1" />
   <path
      id="toolbutton-pressed-center"
      d="m242 182h22v22h-22z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:0.95622247;opacity:1" />
   <path
      id="toolbutton-pressed-bottom"
      d="m 264,208 v -3 h -22 v 3 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:0.94905847;opacity:1" />
   <path
      id="toolbutton-pressed-bottomright"
      d="m 265,208 c 1.662,0 3,-1.338 3,-3 h -3 v 2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:1;opacity:1" />
   <path
      id="toolbutton-pressed-right"
      d="m 268,182 h -3 v 22 h 3 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:0.9231199;opacity:1" />
   <path
      id="toolbutton-pressed-topright"
      d="m 268,181 c 0,-1.662 -1.338,-3 -3,-3 v 3 h 2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:1;opacity:1" />
   <path
      id="toolbutton-pressed-left"
      d="m 238,204 h 3 v -22 h -3 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:1;opacity:1" />
   <path
      id="toolbutton-pressed-bottomleft"
      d="m 238,205 c 0,1.662 1.338,3 3,3 v -3 h -2 z"
      class="ColorScheme-ButtonHover"
      fill="currentColor"
      fill-rule="evenodd"
-     style="fill:#006dda;fill-opacity:0.50255638;opacity:1" />
+     style="fill:#006dda;fill-opacity:1;opacity:1" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.01"
      id="toolbutton-pressed-hint-top-margin"
      d="m 252,178 h 2 v 4 h -2 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.01"
      id="toolbutton-pressed-hint-bottom-margin"
      d="m 252,204 h 2 v 4 h -2 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.01"
      id="toolbutton-pressed-hint-left-margin"
      d="m 238,192 h 4 v 2 h -4 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.50255638"
+     style="stroke-width:0.999996;fill:#006dda;opacity:1;fill-opacity:0.01"
      id="toolbutton-pressed-hint-right-margin"
      d="m 264,192 h 4 v 2 h -4 z"
      fill="#ff00ff"
