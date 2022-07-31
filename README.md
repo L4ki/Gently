@@ -395,4 +395,9 @@ Changelog: 24.07.2022.
 
 Update widget: action-overlays.svg
 
+Changelog: 31.07.2022.
+----------------------
+
+Update widgets: actionbutton.svg, button.svg, line.svg
+
 
