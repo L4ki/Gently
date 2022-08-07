@@ -5,7 +5,7 @@
    width="128"
    id="svg2"
    sodipodi:docname="listitem.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,19 +23,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-height="1002"
      id="namedview58"
      showgrid="false"
-     inkscape:zoom="1.5733333"
-     inkscape:cx="78.177968"
-     inkscape:cy="157.30933"
+     inkscape:zoom="6.2933332"
+     inkscape:cx="37.500001"
+     inkscape:cy="57.600637"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="true" />
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -223,7 +224,7 @@
      style="opacity:0.1;fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
      class="ColorScheme-ViewFocus"
-     style="opacity:0.1;fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="opacity:0.15;fill:#2e75bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 19.9997,10.000015 0,11.000005 10.999999,0 0,-11.000005 -10.999999,0 z"
      id="pressed-center" />
   <path
