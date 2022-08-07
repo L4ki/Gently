@@ -400,4 +400,9 @@ Changelog: 31.07.2022.
 
 Update widgets: actionbutton.svg, button.svg, line.svg
 
+Changelog: 07.08.2022.
+----------------------
+
+Update widget: listitem.svg
+
 
