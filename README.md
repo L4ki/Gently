@@ -405,4 +405,9 @@ Changelog: 07.08.2022.
 
 Update widget: listitem.svg
 
+Changelog: 14.08.2022.
+----------------------
+
+Added widgets: notes.svg, timer.svg
+
 
