@@ -5,7 +5,7 @@
    version="1.1"
    id="svg12"
    sodipodi:docname="choqok_offline.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="1002"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="78.5"
-     inkscape:cx="40.88535"
-     inkscape:cy="19.082803"
+     inkscape:zoom="9.8125"
+     inkscape:cx="24.509554"
+     inkscape:cy="18.496815"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -49,7 +49,8 @@
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="true">
+     inkscape:lockguides="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid928" />
@@ -86,6 +87,14 @@
        id="path10-5"
        style="fill:#ff557f;fill-opacity:1;stroke-width:0.0238398"
        sodipodi:nodetypes="sccsccssscscsssccccscscsccscscscscs" />
+    <path
+       d="m 9.0455742,9.0000004 c -0.578435,0 -0.999999,0.420479 -0.999999,0.9999996 0,0.57952 0.421564,1 0.999999,1 0.578437,0 1.0000008,-0.42048 1.0000008,-1 0,-0.5795206 -0.4215638,-0.9999996 -1.0000008,-0.9999996 z"
+       id="path8-5-1-3"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0266826" />
+    <path
+       d="M 23.099999,9.0000004 C 22.521564,9.0000004 22.1,9.4204794 22.1,10 c 0,0.57952 0.421564,1 0.999999,1 C 23.678436,11 24.1,10.57952 24.1,10 24.1,9.4204794 23.678436,9.0000004 23.099999,9.0000004 Z"
+       id="path8-5-1-3-6"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0266826" />
   </g>
   <g
      id="22-22-choqok_offline">
@@ -119,5 +128,13 @@
        id="path10-6-2"
        style="fill:#ff557f;fill-opacity:1;stroke-width:0.0158932"
        sodipodi:nodetypes="sccsccssscscssscccccccccccscscscscs" />
+    <path
+       d="M 38.845999,16.25 C 38.412174,16.25 38.096,16.565359 38.096,17 c 0,0.43464 0.316174,0.75 0.749999,0.75 0.433827,0 0.750001,-0.31536 0.750001,-0.75 0,-0.434641 -0.316174,-0.75 -0.750001,-0.75 z"
+       id="path8-5-1-3-7"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0200121" />
+    <path
+       d="m 47.249805,16.25 c -0.433825,0 -0.749999,0.315359 -0.749999,0.75 0,0.43464 0.316174,0.75 0.749999,0.75 0.433827,0 0.750001,-0.31536 0.750001,-0.75 0,-0.434641 -0.316174,-0.75 -0.750001,-0.75 z"
+       id="path8-5-1-3-7-5"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.0200121" />
   </g>
 </svg>
