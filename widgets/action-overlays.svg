@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 48 48"
    sodipodi:docname="action-overlays.svg"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,19 +36,19 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1007"
+     inkscape:window-height="1002"
      id="namedview67"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="21.661017"
-     inkscape:cy="21.152542"
+     inkscape:cx="21.864407"
+     inkscape:cy="21.254237"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8"
-     inkscape:lockguides="false"
+     inkscape:lockguides="true"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="true"
+     inkscape:pagecheckerboard="false"
      inkscape:showpageshadow="true"
      inkscape:deskcolor="#d1d1d1" />
   <defs
@@ -380,7 +380,7 @@
        y="50"
        style="opacity:0.00100002;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.8" />
     <path
-       style="opacity:1;fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#00aa7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path1068"
        d="M 8.2810355,36.558561 10.140518,39.779279 12,42.999997 H 8.2810354 4.5620707 l 1.8594824,-3.220718 z"
        transform="matrix(1.0755682,0,0,0.77622444,-0.90681813,26.622351)" />
@@ -444,6 +444,6 @@
        id="path1094"
        d="M 8.2810355,36.558561 10.140518,39.779279 12,42.999997 H 8.2810354 4.5620707 l 1.8594824,-3.220718 z"
        transform="matrix(1.0755682,0,0,0.77622444,-0.90681813,26.622351)"
-       style="opacity:1;fill:#5555ff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#00aa7f;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
