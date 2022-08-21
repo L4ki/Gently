@@ -411,3 +411,11 @@ Changelog: 14.08.2022.
 Added widgets: notes.svg, timer.svg
 
 
+Changelog: 21.08.2022.
+----------------------
+
+Update widget: action-overlays
+
+Update icons: choqok_offline, choqok
+
+
