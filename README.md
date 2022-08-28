@@ -419,3 +419,9 @@ Update widget: action-overlays
 Update icons: choqok_offline, choqok
 
 
+Changelog: 28.08.2022.
+----------------------
+
+Update icon: software.svg
+
+
