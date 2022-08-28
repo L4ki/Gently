@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 22 22"
    sodipodi:docname="software.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -36,12 +36,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1002"
      id="namedview33"
      showgrid="false"
-     inkscape:zoom="3.7259959"
-     inkscape:cx="4.6967308"
-     inkscape:cy="25.362346"
+     inkscape:zoom="5.2693539"
+     inkscape:cx="2.3722073"
+     inkscape:cy="22.583414"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -50,7 +50,8 @@
      showguides="true"
      inkscape:showpageshadow="true"
      inkscape:pagecheckerboard="0"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid891"
@@ -189,12 +190,12 @@
     <path
        d="m 46.795866,31.101314 -0.780136,3.595033 0.961385,-0.405172 c 0.545572,2.063193 0.01084,4.364509 -1.61892,5.994088 -1.66867,1.668679 -4.044627,2.198246 -6.146911,1.58693 l -1.423441,1.423432 c 2.919747,1.249284 6.452573,0.673523 8.85341,-1.727313 2.16982,-2.169819 2.843324,-5.265493 2.02942,-7.996861 l 1.046702,-0.440712 z m -11.75361,6.482781 c -0.545562,-2.063192 -0.01067,-4.364506 1.618919,-5.994086 1.668678,-1.668677 4.04464,-2.198246 6.146916,-1.586932 l 1.42345,-1.42344 c -2.917973,-1.251063 -6.452581,-0.675291 -8.853417,1.725545 -2.169814,2.169813 -2.843325,5.265479 -2.029422,7.996848 l -1.046701,0.440725 2.921518,2.029428 0.780137,-3.595034 z"
        id="path4-1"
-       style="fill:#00ccff;fill-opacity:1;stroke-width:0.0177712" />
+       style="fill:#00aaff;fill-opacity:1;stroke-width:0.0177712" />
     <path
        inkscape:connector-curvature="0"
        id="path4167-3"
        d="m 40.9835,32.066996 3.833501,3.833499 h -1.91675 v 3.833501 h -3.8335 v -3.833501 h -1.91675 l 1.91675,-1.916749 z"
-       style="color:#eff0f1;fill:#00ccff;fill-opacity:1;stroke:none;stroke-width:1.91675"
+       style="color:#eff0f1;fill:#00aaff;fill-opacity:1;stroke:none;stroke-width:1.91675"
        class="ColorScheme-Background" />
   </g>
   <g
