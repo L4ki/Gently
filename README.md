@@ -429,3 +429,8 @@ Changelog: 04.09.2022.
 
 Added icons: distribute.svg, mobile.svg
 
+Changelog: 11.09.2022.
+----------------------
+
+Update icon: window.svg
+
