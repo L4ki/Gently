@@ -6,7 +6,7 @@
    version="1.1"
    viewBox="0 0 32 32"
    sodipodi:docname="window.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1002"
      id="namedview58"
      showgrid="false"
      inkscape:zoom="3.8653503"
-     inkscape:cx="51.741753"
+     inkscape:cx="51.871107"
      inkscape:cy="13.58221"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -48,7 +48,8 @@
      inkscape:lockguides="false"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:showpageshadow="false">
+     inkscape:showpageshadow="true"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid855" />
@@ -83,7 +84,7 @@
      id="window-unpin"
      transform="translate(136,-20)">
     <path
-       style="fill:#d7f1f8;fill-opacity:1;stroke-width:0.875"
+       style="fill:#00aaff;fill-opacity:1;stroke-width:0.875"
        d="m -61.02505,44.4 c -0.340597,0.340603 -0.409821,0.948792 -0.01353,1.613283 l -1.859365,1.24413 c -0.231188,-0.09319 -0.479333,-0.162828 -0.72462,-0.164046 -0.318834,-10e-4 -0.628898,0.09581 -0.902342,0.369133 l 1.3125,1.3125 -1.75,1.75 L -65.4,51.4 l 0.875,-0.4375 1.75,-1.75 1.3125,1.3125 c 0.484283,-0.484283 0.422086,-1.097133 0.205087,-1.626949 l 1.24413,-1.859388 c 0.664491,0.39614 1.272681,0.32694 1.613283,-0.01378 z"
        id="path11" />
     <rect
