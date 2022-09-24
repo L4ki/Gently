@@ -439,3 +439,8 @@ Changelog: 18.09.2022.
 
 Update widget: background.svg
 
+Changelog: 25.09.2022.
+----------------------
+
+Added icons: emblem.svg, kdf.svg
+
