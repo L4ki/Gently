@@ -444,3 +444,8 @@ Changelog: 25.09.2022.
 
 Added icons: emblem.svg, kdf.svg
 
+Changelog: 02.10..2022.
+----------------------
+
+Update icons: start.svg, redshift.svg
+
