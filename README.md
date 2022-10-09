@@ -449,7 +449,7 @@ Changelog: 02.10..2022.
 
 Update icons: start.svg, redshift.svg
 
-Changelog: 02.10..2022.
+Changelog: 09.10..2022.
 ----------------------
 
 Added icons: thunderbird.svg, list.svg, kleopatra.svg
