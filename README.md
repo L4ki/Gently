@@ -454,3 +454,8 @@ Changelog: 09.10..2022.
 
 Added icons: thunderbird.svg, list.svg, kleopatra.svg
 
+Changelog: 16.10..2022.
+----------------------
+
+Update widget: scrollbar.svg
+
