@@ -459,3 +459,8 @@ Changelog: 16.10..2022.
 
 Update widget: scrollbar.svg
 
+
+Changelog: 23.10..2022.
+----------------------
+
+Update widget: scrollbar.svg
