@@ -464,3 +464,8 @@ Changelog: 23.10..2022.
 ----------------------
 
 Update icon: apport.svg
+
+Changelog: 30.10..2022.
+----------------------
+
+Update icon: TeamViewer.svg
