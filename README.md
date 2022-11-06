@@ -469,3 +469,8 @@ Changelog: 30.10..2022.
 ----------------------
 
 Update icon: TeamViewer.svg
+
+Changelog: 06.11..2022.
+----------------------
+
+Added icon: tools.svg
