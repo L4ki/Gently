@@ -444,33 +444,33 @@ Changelog: 25.09.2022.
 
 Added icons: emblem.svg, kdf.svg
 
-Changelog: 02.10..2022.
+Changelog: 02.10.2022.
 ----------------------
 
 Update icons: start.svg, redshift.svg
 
-Changelog: 09.10..2022.
+Changelog: 09.10.2022.
 ----------------------
 
 Added icons: thunderbird.svg, list.svg, kleopatra.svg
 
-Changelog: 16.10..2022.
+Changelog: 16.10.2022.
 ----------------------
 
 Update widget: scrollbar.svg
 
 
-Changelog: 23.10..2022.
+Changelog: 23.10.2022.
 ----------------------
 
 Update icon: apport.svg
 
-Changelog: 30.10..2022.
+Changelog: 30.10.2022.
 ----------------------
 
 Update icon: TeamViewer.svg
 
-Changelog: 06.11..2022.
+Changelog: 06.11.2022.
 ----------------------
 
 Added icon: tools.svg
