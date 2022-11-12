@@ -474,3 +474,8 @@ Changelog: 06.11.2022.
 ----------------------
 
 Added icon: tools.svg
+
+Changelog: 13.11.2022.
+----------------------
+
+Added icon: nulloy.svg
