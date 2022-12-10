@@ -497,3 +497,13 @@ Plasma Theme
 -------------
 
 Added icon: mellowplayer.svg
+
+Changelog: 11.12.2022.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: office.svg
+
+Update icon: kalarm.svg
