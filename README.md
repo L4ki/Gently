@@ -507,3 +507,11 @@ Plasma Theme
 Added icon: office.svg
 
 Update icon: kalarm.svg
+
+Changelog: 18.12.2022.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: yakuake.svg, plasma.svg
