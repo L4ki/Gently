@@ -515,3 +515,12 @@ Plasma Theme
 -------------
 
 Added icons: yakuake.svg, plasma.svg
+
+
+Changelog: 25.12.2022.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: internet.svg, jami.svg
