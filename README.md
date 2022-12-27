@@ -15,6 +15,8 @@ Dark Plasma Theme
 </html>
 
 ![PayPal](https://user-images.githubusercontent.com/45247573/209690335-3d6f0faf-d834-43df-86cb-ccdefe943993.png)
+________________________________________________________________________________________________________________     
+     
 
 
 Changelog: 18.09.2020.
