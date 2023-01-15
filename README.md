@@ -574,3 +574,11 @@ Plasma Theme
 -------------
 
 Added icon: krfb.svg
+
+Changelog: 15.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: kadenca.svg
