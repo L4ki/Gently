@@ -582,3 +582,11 @@ Plasma Theme
 -------------
 
 Added icon: cadence.svg
+
+Changelog: 22.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icons: face.svg, onboard.svg
