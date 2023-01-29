@@ -590,3 +590,11 @@ Plasma Theme
 -------------
 
 Added icons: face.svg, onboard.svg
+
+Changelog: 29.01.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: offline.svg
