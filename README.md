@@ -598,3 +598,11 @@ Plasma Theme
 -------------
 
 Added icon: offline.svg
+
+Changelog: 05.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: ring.svg
