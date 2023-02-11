@@ -606,3 +606,13 @@ Plasma Theme
 -------------
 
 Added icon: ring.svg
+
+Changelog: 12.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: process.svg
+
+Update icon: ring.svg
