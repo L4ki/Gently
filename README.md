@@ -616,3 +616,12 @@ Plasma Theme
 Added icon: process.svg
 
 Update icon: ring.svg
+
+Changelog: 19.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: desktop.svg
+
