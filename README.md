@@ -625,3 +625,11 @@ Plasma Theme
 
 Added icon: desktop.svg
 
+Changelog: 27.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: veracrypt.svg
+
