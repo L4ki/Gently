@@ -633,3 +633,11 @@ Plasma Theme
 
 Added icon: veracrypt.svg
 
+Changelog: 27.02.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon: org.rnd2.cpupower_gui.svg
+
