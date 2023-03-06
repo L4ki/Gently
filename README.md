@@ -633,7 +633,7 @@ Plasma Theme
 
 Added icon: veracrypt.svg
 
-Changelog: 27.02.2023.
+Changelog: 06.03.2023.
 ---------------------
 
 Plasma Theme
