@@ -649,3 +649,11 @@ Plasma Theme
 
 Added icon:  antimicro.svg
 
+Changelog: 20.03.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon:  corectrl.svg
+
