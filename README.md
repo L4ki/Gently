@@ -673,3 +673,11 @@ Plasma Theme
 
 Added icons:  fcitx.svg, ime.svg
 
+Changelog: 10.04.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Added icon:  strawberry.svg
+
