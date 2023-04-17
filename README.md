@@ -681,3 +681,11 @@ Plasma Theme
 
 Added icon:  strawberry.svg
 
+Changelog: 17.04.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Update widget: viewitem.svg
+
