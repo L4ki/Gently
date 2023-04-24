@@ -689,3 +689,11 @@ Plasma Theme
 
 Update widget: viewitem.svg
 
+Changelog: 24.04.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Update widgets: background.svg, panel-background.svg, tooltip.svg
+
