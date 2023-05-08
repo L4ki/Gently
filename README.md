@@ -705,3 +705,11 @@ Plasma Theme
 
 Update widget: listitem.svg
 
+Changelog: 08.05.2023.
+---------------------
+
+Plasma Theme
+-------------
+
+Update icon: update.svg
+
