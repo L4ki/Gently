@@ -713,3 +713,8 @@ Plasma Theme
 
 Update icon: update.svg
 
+Changelog: 15.05.2023.
+-----------------------
+
+Update widget: tooltip.svg (opaque, solid)
+
