@@ -733,3 +733,8 @@ Changelog: 05.06.2023.
 
 Added icon: quota.svg
 
+Changelog: 05.06.2023.
+-----------------------
+
+Added widget: configuration-icons.svg
+
