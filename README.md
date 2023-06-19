@@ -738,3 +738,8 @@ Changelog: 12.06.2023.
 
 Added widget: configuration-icons.svg
 
+Changelog: 19.06.2023.
+-----------------------
+
+Update: metadata.desktop
+
