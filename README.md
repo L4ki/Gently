@@ -743,3 +743,8 @@ Changelog: 19.06.2023.
 
 Update: metadata.desktop
 
+Changelog: 26.06.2023.
+-----------------------
+
+Update: background.svg (dialog)
+
