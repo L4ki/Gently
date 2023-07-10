@@ -753,3 +753,8 @@ Changelog: 03.07.2023.
 
 Added widget: analog_meter.svg
 
+Changelog: 10.07.2023.
+-----------------------
+
+Update widget: plasmoidheading.svg
+
