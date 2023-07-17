@@ -758,3 +758,8 @@ Changelog: 10.07.2023.
 
 Update widget: plasmoidheading.svg
 
+Changelog: 17.07.2023.
+-----------------------
+
+Added widget: switch.svg
+
