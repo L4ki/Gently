@@ -764,4 +764,10 @@ Changelog: 24.07.2023.
 Added widget: translucentbackground.svg
 
 
+Changelog: 31.07.2023.
+-----------------------
+
+Added icon: network.svg
+
+
 
