@@ -800,4 +800,10 @@ Changelog: 11.09.2023.
 Added: wind-arrows.svg
 
 
+Changelog: 18.09.2023.
+-----------------------
+
+Added widget: arrows.svg
+
+
 
