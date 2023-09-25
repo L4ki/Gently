@@ -805,5 +805,10 @@ Changelog: 18.09.2023.
 
 Added widget: arrows.svg
 
+Changelog: 25.09.2023.
+-----------------------
+
+Added widget: radiobutton.svg
+
 
 
