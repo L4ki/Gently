@@ -810,5 +810,10 @@ Changelog: 25.09.2023.
 
 Added widget: radiobutton.svg
 
+Changelog: 02.10.2023.
+-----------------------
+
+Added widget: containment-controls.svg
+
 
 
