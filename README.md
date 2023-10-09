@@ -815,5 +815,10 @@ Changelog: 02.10.2023.
 
 Added widget: containment-controls.svg
 
+Changelog: 09.10.2023.
+-----------------------
+
+Added widget: glowbar.svg
+
 
 
