@@ -820,5 +820,10 @@ Changelog: 09.10.2023.
 
 Added widget: glowbar.svg
 
+Changelog: 16.10.2023.
+-----------------------
+
+Update widget: line.svg
+
 
 
