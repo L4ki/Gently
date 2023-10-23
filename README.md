@@ -826,4 +826,10 @@ Changelog: 16.10.2023.
 Update widget: line.svg
 
 
+Changelog: 23.10.2023.
+-----------------------
+
+Added icon: transform.svg
+
+
 
