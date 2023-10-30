@@ -832,4 +832,10 @@ Changelog: 23.10.2023.
 Added icon: transform.svg
 
 
+Changelog: 30.10.2023.
+-----------------------
+
+Added widget: margins-highlight.svg
+
+
 
