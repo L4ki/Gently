@@ -837,5 +837,10 @@ Changelog: 30.10.2023.
 
 Added widget: margins-highlight.svg
 
+Changelog: 06.11.2023.
+-----------------------
+
+Added widget: menubaritem.svg
+
 
 
