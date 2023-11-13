@@ -842,5 +842,10 @@ Changelog: 06.11.2023.
 
 Added widget: menubaritem.svg
 
+Changelog: 13.11.2023.
+-----------------------
+
+Added icon: search.svg
+
 
 
