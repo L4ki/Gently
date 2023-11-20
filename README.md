@@ -847,5 +847,10 @@ Changelog: 13.11.2023.
 
 Added icon: search.svg
 
+Changelog: 20.11.2023.
+-----------------------
+
+Added icon: widget.svg
+
 
 
