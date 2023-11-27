@@ -852,5 +852,9 @@ Changelog: 20.11.2023.
 
 Added icon: widget.svg
 
+Changelog: 27.11.2023.
+-----------------------
+
+Update widget: button.svg
 
 
