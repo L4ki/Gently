@@ -857,4 +857,9 @@ Changelog: 27.11.2023.
 
 Update widget: button.svg
 
+Changelog: 04.12.2023.
+-----------------------
+
+Update widget: bar_meter_horizontal.svg
+
 
