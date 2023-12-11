@@ -862,4 +862,9 @@ Changelog: 04.12.2023.
 
 Update widget: bar_meter_horizontal.svg
 
+Changelog: 11.12.2023.
+-----------------------
+
+Added icon: telegram.svg
+
 
