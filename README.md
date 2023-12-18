@@ -867,4 +867,9 @@ Changelog: 11.12.2023.
 
 Added icon: telegram.svg
 
+Changelog: 18.12.2023.
+-----------------------
+
+Added widget: plot-background.svg
+
 
