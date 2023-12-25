@@ -872,4 +872,10 @@ Changelog: 18.12.2023.
 
 Added widget: plot-background.svg
 
+Changelog: 25.12.2023.
+-----------------------
+
+Added widget: media-delegate.svg
+
+
 
