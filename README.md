@@ -877,5 +877,10 @@ Changelog: 25.12.2023.
 
 Added widget: media-delegate.svg
 
+Changelog: 01.01.2024.
+-----------------------
+
+Update widget: switch.svg
+
 
 
