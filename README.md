@@ -882,5 +882,10 @@ Changelog: 01.01.2024.
 
 Update widget: switch.svg
 
+Changelog: 09.01.2024.
+-----------------------
+
+Update widget: panel-background.svg
+
 
 
