@@ -887,5 +887,10 @@ Changelog: 09.01.2024.
 
 Update widget: panel-background.svg
 
+Changelog: 16.01.2024.
+-----------------------
+
+Update widget: plasmoidheading.svg
+
 
 
