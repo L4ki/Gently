@@ -2,9 +2,9 @@
 Color=112,111,110
 ColorAmount=0
 ColorEffect=0
-ContrastAmount=0.65000000000000002
+ContrastAmount=0.70
 ContrastEffect=1
-IntensityAmount=0.10000000000000001
+IntensityAmount=0.10
 IntensityEffect=2
 
 [ColorEffects:Inactive]
