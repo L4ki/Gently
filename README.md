@@ -37,13 +37,18 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 11.03.2024.
+Changelog: 18.03.2024.
 -----------------------
 
 Plasma Theme
 ------------
 
-Update widget: button.svg, tabbar.svg
+Update widget: listitem.svg
+
+Aurorae themes
+--------------
+
+Update: rc file
 
 
 
