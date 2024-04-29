@@ -37,18 +37,17 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 22.04.2024.
+Changelog: 29.04.2024.
 -----------------------
 
 Plasma Theme
 ------------
 
-Update: metadata.desktop
+Update widget: button.svg
 
 Aurorae themes
 --------------
 
-Update: metadata.desktop
-
+Update: decoration.svg
 
 
