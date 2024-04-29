@@ -5,7 +5,7 @@
    version="1.1"
    id="svg111"
    sodipodi:docname="decoration.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -30,18 +30,18 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="4.2657374"
-     inkscape:cx="-14.534416"
-     inkscape:cy="35.163909"
+     inkscape:zoom="3.0163318"
+     inkscape:cx="-15.250311"
+     inkscape:cy="64.482295"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg111"
      inkscape:showpageshadow="true"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        type="xygrid"
        id="grid529"
@@ -568,7 +568,7 @@
       <path
          id="center"
          d="M 28,28 V 40 H 40.000001 V 28 Z"
-         style="stroke-width:0.750018;fill-opacity:0.65098041;fill:#050e15"
+         style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.750018"
          class="ColorScheme-Background" />
     </g>
   </g>
@@ -746,7 +746,7 @@
   <g
      id="decoration-topleft">
     <path
-       style="stroke-width:0.636368;fill-opacity:0.64999998;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65;stroke-width:0.636368"
        d="m 28,14 c -9.926544,0 -14,4 -14,14 v 0 H 27.999994 V 14 Z"
        id="path7125"
        sodipodi:nodetypes="cccccc"
@@ -764,14 +764,14 @@
        sodipodi:nodetypes="ccccccccc" />
     <path
        id="path962-5-9"
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke-width:0.923066"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke-width:0.923066"
        d="m 28,15 c -9,0 -13,3 -13,13 v 0 h 1 v 0 C 16,18 20,16 28,16 v 0 z"
        sodipodi:nodetypes="ccccccccc" />
   </g>
   <g
      id="decoration-topright">
     <path
-       style="stroke-width:0.636366;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.636366"
        d="M 54,28 C 54,18 50,14 40,14 v 0 14 z"
        id="path7125-5"
        sodipodi:nodetypes="ccccc"
@@ -789,14 +789,14 @@
        sodipodi:nodetypes="ccccccccc" />
     <path
        id="path962-5-9-1"
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke-width:0.923066"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke-width:0.923066"
        d="M 53,28 C 53,19 50,15 40,15 v 0 1 0 c 10,0 12,4 12,12 v 0 z"
        sodipodi:nodetypes="ccccccccc" />
   </g>
   <g
      id="decoration-bottomright">
     <path
-       style="stroke-width:0.636358;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.636358"
        d="m 40,54 c 10,0 14,-4 14,-14 v 0 H 40 Z"
        id="path7125-67"
        sodipodi:nodetypes="cccccc"
@@ -820,14 +820,14 @@
        sodipodi:nodetypes="ccccccccc" />
     <path
        id="path962-5-9-1-2"
-       style="fill:#d5d7dd;fill-opacity:0.05309734;stroke-width:0.923066"
+       style="fill:#d5d7dd;fill-opacity:0.0530974;stroke-width:0.923066"
        d="m 40,53 c 9,0 13,-3 13,-13 v 0 h -1 v 0 c 0,10 -4,12 -12,12 v 0 z"
        sodipodi:nodetypes="ccccccccc" />
   </g>
   <g
      id="decoration-bottomleft">
     <path
-       style="stroke-width:0.63637;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.63637"
        d="m 14,40 c 0,10 4,14 14,14 v 0 -14 z"
        id="path7125-5-2"
        sodipodi:nodetypes="cccccc"
@@ -845,7 +845,7 @@
        sodipodi:nodetypes="ccccccccc" />
     <path
        id="path962-5-9-1-2-7"
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke-width:0.923066"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke-width:0.923066"
        d="m 15,40 c 0,9 3,13 13,13 v 0 -1 0 C 18,52 16,48 16,40 v 0 z"
        sodipodi:nodetypes="ccccccccc" />
   </g>
@@ -854,7 +854,7 @@
     <path
        id="path7363"
        d="m 14.002841,28 v 12 h 14 V 28 Z"
-       style="stroke-width:0.690984;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.690984"
        class="ColorScheme-Background" />
     <path
        style="fill:#142f52;fill-opacity:0.5;stroke:none;stroke-width:2.24808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
@@ -870,7 +870,7 @@
        style="opacity:0.7;fill:url(#linearGradient1874);fill-opacity:1;stroke:none;stroke-width:0.684057"
        transform="scale(-1)" />
     <path
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke:none;stroke-width:2.24808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke:none;stroke-width:2.24808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
        d="m 16.002841,28 h -1 V 39.999969 L 15.997159,40 Z"
        id="path7879-35-0"
        sodipodi:nodetypes="ccccc" />
@@ -878,7 +878,7 @@
   <g
      id="decoration-right">
     <path
-       style="stroke-width:0.690846;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.690846"
        d="M 54,28 V 40 H 40 V 28 Z"
        id="path7235"
        sodipodi:nodetypes="ccccc"
@@ -896,7 +896,7 @@
        id="path7879-35-7"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke:none;stroke-width:2.24808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke:none;stroke-width:2.24808;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
        d="m 53,28.000016 h -1 v 11.999969 l 0.994318,3.5e-5 z"
        id="path7879-35-0-9"
        sodipodi:nodetypes="ccccc" />
@@ -904,7 +904,7 @@
   <g
      id="decoration-top">
     <path
-       style="stroke-width:0.690852;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.690852"
        d="m 27.999783,13.999999 v 14 h 12.000458 v -14 z"
        id="path7877"
        sodipodi:nodetypes="ccccc"
@@ -923,7 +923,7 @@
        style="opacity:0.7;fill:url(#linearGradient4920);fill-opacity:1;stroke:none;stroke-width:0.891078;paint-order:markers fill stroke"
        transform="matrix(0,-1,-1,0,0,0)" />
     <path
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke:none;stroke-width:2.24726;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke:none;stroke-width:2.24726;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
        d="M 27.999783,14.999999 V 16 h 12.000433 l 2.5e-5,-0.993546 z"
        id="path7879-360"
        sodipodi:nodetypes="ccccc" />
@@ -931,7 +931,7 @@
   <g
      id="decoration-bottom">
     <path
-       style="stroke-width:0.690846;fill-opacity:0.65098041;fill:#050e15"
+       style="fill:#050e15;fill-opacity:0.65098;stroke-width:0.690846"
        d="M 28,40 V 54 H 39.999999 40 V 40 Z"
        id="path7546"
        sodipodi:nodetypes="cccccc"
@@ -950,7 +950,7 @@
        id="path7879-36"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="fill:#d5d7dd;fill-opacity:0.05490196;stroke:none;stroke-width:2.24722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
+       style="fill:#d5d7dd;fill-opacity:0.054902;stroke:none;stroke-width:2.24722;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.0878;stroke-opacity:1"
        d="M 28.000012,51.999999 V 53 h 11.999976 l 2.4e-5,-0.993547 z"
        id="path7879-360-6"
        sodipodi:nodetypes="ccccc" />
