@@ -48,6 +48,6 @@ Update widget: action-overlays.svg
 Aurorae themes
 --------------
 
-Update: metadata.DESKTOP
+Update: metadata.desktop
 
 
