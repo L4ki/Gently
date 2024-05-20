@@ -1,0 +1,27 @@
+[kdeglobals][KDE]
+widgetStyle=breeze
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kdeglobals][General]
+ColorScheme=Gently
+
+[kdeglobals][Icons]
+Theme=Noir-Gently-White-Blue-Dark-Icons
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors
+
+[Wallpaper]
+Image=Gently-Nebula-Noir Wallpapers
+
+[plasmarc][Theme]
+name=Gently
+
+[kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Gently-Dark-Aurorae-6
