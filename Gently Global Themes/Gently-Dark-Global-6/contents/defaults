@@ -25,3 +25,6 @@ name=Gently
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Gently-Dark-Aurorae-6
+
+[KSplash]
+Theme=Gently-Splash-6
