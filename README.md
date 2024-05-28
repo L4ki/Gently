@@ -37,13 +37,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 20.05.2024.
+Changelog: 28.05.2024.
 -----------------------
 
 Plasma Theme
 ------------
 
-Update widget: background.svg
+Update widget: busywidget.svg
 
 Aurorae themes
 --------------
