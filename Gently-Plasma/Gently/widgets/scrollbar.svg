@@ -6,7 +6,7 @@
    height="98"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="scrollbar.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -23,20 +23,20 @@
 </style>
   <sodipodi:namedview
      id="base"
-     pagecolor="#eff0f1"
+     pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="5.6568546"
      inkscape:cx="-2.8284269"
-     inkscape:cy="58.247917"
+     inkscape:cy="58.159529"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="48px"
@@ -53,18 +53,23 @@
      guidehicolor="#ff0000"
      guidehiopacity="0.64705882"
      inkscape:showpageshadow="2"
-     inkscape:deskcolor="#eff0f1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
-       visible="true"
+       visible="false"
        enabled="true"
        id="grid2555"
        type="xygrid"
        empspacing="5"
        snapvisiblegridlinesonly="true"
        color="#0000ff"
-       opacity="0.55294118"
+       opacity="0.552941"
        empcolor="#0000ff"
-       empopacity="0.31764706" />
+       empopacity="0.31764706"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
