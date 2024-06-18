@@ -4,7 +4,7 @@
    height="95"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:docname="background.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0"
@@ -25,13 +25,13 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.8346554"
      inkscape:cx="138.44562"
-     inkscape:cy="165.97122"
+     inkscape:cy="78.488854"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1009"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      width="148px"
@@ -47,16 +47,19 @@
      inkscape:snap-page="true"
      inkscape:lockguides="true"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        empspacing="5"
        enabled="true"
-       visible="true"
+       visible="false"
        id="grid3357"
        type="xygrid"
        originx="0"
-       originy="-6.6613381e-16" />
+       originy="-6.6613381e-16"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs3644">
