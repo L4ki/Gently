@@ -8,7 +8,7 @@
    sodipodi:docname="lineedit.svg"
    height="44.000534"
    width="42.038403"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    sodipodi:version="0.32"
    id="svg2"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -35,7 +35,7 @@
      inkscape:window-y="0"
      inkscape:window-x="0"
      inkscape:cy="27.751083"
-     inkscape:cx="19.320374"
+     inkscape:cx="29.331841"
      inkscape:zoom="5.6934715"
      id="base"
      pagecolor="#ffffff"
@@ -47,17 +47,23 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1006"
+     inkscape:window-height="996"
      inkscape:pagecheckerboard="0"
      inkscape:showpageshadow="false"
-     inkscape:lockguides="false">
+     inkscape:lockguides="false"
+     inkscape:deskcolor="#cccccc">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        empspacing="5"
        type="xygrid"
        id="grid5592"
-       visible="true"
-       enabled="true" />
+       visible="false"
+       enabled="true"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
