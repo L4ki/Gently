@@ -23,7 +23,7 @@
      type="text/css">.ColorScheme-Background { siop-color:#1d212f;    color:#1d212f; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="994"
+     inkscape:window-height="1005"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -36,7 +36,7 @@
      id="base"
      inkscape:zoom="11.313709"
      inkscape:cx="12.109203"
-     inkscape:cy="17.766057"
+     inkscape:cy="17.810251"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -57,8 +57,8 @@
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="false"
      inkscape:lockguides="true"
-     inkscape:showpageshadow="true"
-     inkscape:deskcolor="#cccccc">
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        snapvisiblegridlinesonly="true"
        empspacing="5"
