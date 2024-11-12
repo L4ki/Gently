@@ -37,13 +37,13 @@ Screenshots:
 ______________________________________________________________________________________________________________________________________
 
 
-Changelog: 05.11.2024.
+Changelog: 12.11.2024.
 -----------------------
 
 Plasma Theme
 ------------
 
-Update widget: translucentbackground.svg
+Update widget: tooltip.svg
 
 Aurorae themes
 --------------
