@@ -5,7 +5,7 @@
    viewBox="0 0 35.983333 35.983334"
    id="svg2"
    version="1.1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="busywidget.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -78,15 +78,6 @@
        y2="11.377067"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient874"
-       id="linearGradient913"
-       x1="-0.52916706"
-       y1="287.21039"
-       x2="3.1750002"
-       y2="287.21039"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
        y2="74.807083"
        x2="208.76352"
        y1="54.615826"
@@ -105,7 +96,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4128198"
      inkscape:cx="61.578978"
-     inkscape:cy="182.96742"
+     inkscape:cy="183.32133"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -113,7 +104,7 @@
      inkscape:showpageshadow="true"
      borderlayer="true"
      inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:window-height="994"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -125,7 +116,7 @@
      showguides="false"
      inkscape:document-rotation="0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4160"
@@ -250,7 +241,7 @@
          transform="rotate(90)" />
     </g>
     <rect
-       style="fill:url(#linearGradient913);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
+       style="fill:#2a7fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.264583"
        id="hint-rotation-angle"
        width="3.7041671"
        height="3.7041693"
