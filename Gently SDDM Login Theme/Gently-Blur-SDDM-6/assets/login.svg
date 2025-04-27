@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 30.00001 30.000027"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="login.svg"
+   inkscape:version="1.4 (unknown)"
+   width="30.00001"
+   height="30.000027"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="10.746865"
+     inkscape:cx="13.911034"
+     inkscape:cy="18.377452"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:lockguides="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs3051">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient826">
+      <stop
+         style="stop-color:#034061;stop-opacity:1"
+         offset="0"
+         id="stop822" />
+      <stop
+         style="stop-color:#5599ff;stop-opacity:1"
+         offset="1"
+         id="stop824" />
+    </linearGradient>
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient826"
+       id="linearGradient831"
+       x1="7.9374681"
+       y1="15.246298"
+       x2="22.058575"
+       y2="15.246298"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99142379,0,0,1,0.13061008,-0.2462846)" />
+  </defs>
+  <rect
+     ry="15.000005"
+     y="0"
+     x="0"
+     height="30.000027"
+     width="30.00001"
+     id="rect4130"
+     style="opacity:0.15;fill:#b3b3b3;fill-opacity:1;stroke:none" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 10.102912,3.0000133 9.794197,9.8789037 2.102896,2.121077 -2.102896,2.121104 -9.794197,9.878915 L 8.0000049,24.878915 17.794194,14.999994 8.0000049,5.1211093 Z"
+     style="color:#eff0f1;fill:url(#linearGradient831);fill-opacity:1;stroke:none;stroke-width:1.26726"
+     id="rect4149" />
+</svg>
