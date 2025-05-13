@@ -6,7 +6,7 @@
    height="64"
    viewBox="0 0 157 64"
    width="157"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (unknown)"
    sodipodi:docname="tooltip.svg"
    version="1.1"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,18 +27,23 @@
      inkscape:current-layer="svg2"
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
-     inkscape:zoom="3.7133759"
-     inkscape:cx="66.516293"
-     inkscape:cy="61.534304"
+     inkscape:zoom="5.2515066"
+     inkscape:cx="69.408654"
+     inkscape:cy="53.698876"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
-       id="grid231" />
+       id="grid231"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <defs
      id="defs15">
@@ -187,7 +192,7 @@
      y="0" />
   <g
      id="top"
-     transform="translate(6,10)">
+     transform="translate(9,10)">
     <rect
        id="rect4152"
        height="6"
@@ -197,7 +202,7 @@
        x="0"
        y="0" />
     <rect
-       style="opacity:1;fill:#0d4d73;fill-rule:evenodd;fill-opacity:1"
+       style="opacity:1;fill:#0d4d73;fill-opacity:1;fill-rule:evenodd"
        class="ColorScheme-Text"
        id="rect3369"
        width="32"
@@ -207,7 +212,7 @@
   </g>
   <g
      id="bottom"
-     transform="translate(6,48)">
+     transform="translate(9,48)">
     <rect
        id="rect4148"
        height="6"
@@ -217,7 +222,7 @@
        x="0"
        y="0" />
     <rect
-       style="opacity:1;fill:#0d4d73;fill-rule:evenodd;fill-opacity:1"
+       style="opacity:1;fill:#0d4d73;fill-opacity:1;fill-rule:evenodd"
        class="ColorScheme-Text"
        id="rect3369-9"
        width="32"
@@ -227,7 +232,7 @@
   </g>
   <g
      id="left"
-     transform="translate(0,16)">
+     transform="translate(3,16)">
     <rect
        id="rect4144"
        height="32"
@@ -237,7 +242,7 @@
        x="0"
        y="0" />
     <rect
-       style="opacity:1;fill:#0d4d73;fill-rule:evenodd;fill-opacity:1"
+       style="opacity:1;fill:#0d4d73;fill-opacity:1;fill-rule:evenodd"
        class="ColorScheme-Text"
        id="rect3018-2"
        width="1"
@@ -247,7 +252,7 @@
   </g>
   <g
      id="right"
-     transform="translate(38,16)">
+     transform="translate(41,16)">
     <rect
        id="rect4140"
        height="32"
@@ -257,7 +262,7 @@
        x="0"
        y="0" />
     <rect
-       style="opacity:1;fill:#0d4d73;fill-rule:evenodd;fill-opacity:1"
+       style="opacity:1;fill:#0d4d73;fill-opacity:1;fill-rule:evenodd"
        class="ColorScheme-Text"
        id="rect3018"
        width="1"
@@ -267,7 +272,7 @@
   </g>
   <g
      id="center"
-     transform="translate(6,16)">
+     transform="translate(9,16)">
     <rect
        id="rect4138"
        height="32"
@@ -279,7 +284,7 @@
   </g>
   <g
      id="topleft"
-     transform="translate(0,10)">
+     transform="translate(3,10)">
     <path
        d="M 3,0 C 1.3431458,0 0,1.3431458 0,3 V 6 H 6 V 0 Z"
        style="opacity:1;fill:#050e15;fill-opacity:1"
@@ -293,7 +298,7 @@
   </g>
   <g
      id="topright"
-     transform="translate(38,10)">
+     transform="translate(41,10)">
     <path
        d="M 0,0 V 6 H 6 V 3 C 6,1.3431458 4.6568542,0 3,0 Z"
        style="opacity:1;fill:#050e15;fill-opacity:1"
@@ -309,7 +314,7 @@
   </g>
   <g
      id="bottomleft"
-     transform="translate(0,48)">
+     transform="translate(3,48)">
     <path
        d="M 3,6 H 6 V 0 H 0 v 3 c 0,1.6568542 1.3431458,3 3,3 z"
        style="opacity:1;fill:#050e15;fill-opacity:1"
@@ -323,7 +328,7 @@
   </g>
   <g
      id="bottomright"
-     transform="translate(38,48)">
+     transform="translate(41,48)">
     <path
        d="M 3,6 H 0 V 0 H 6 V 3 C 6,4.6568542 4.6568542,6 3,6 Z"
        style="opacity:1;fill:#050e15;fill-opacity:1"
@@ -338,110 +343,110 @@
   <rect
      id="hint-top-margin"
      height="6"
-     style="fill:#008080;opacity:0.01"
+     style="opacity:0.01;fill:#008080"
      width="4"
-     x="20"
+     x="23.000004"
      y="10" />
   <rect
      id="hint-bottom-margin"
      height="6"
-     style="fill:#008080;opacity:0.01"
+     style="opacity:0.01;fill:#008080"
      width="4"
-     x="20"
+     x="23.000004"
      y="48" />
   <rect
      id="hint-right-margin"
      height="4"
-     style="fill:#008080;opacity:0.01"
+     style="opacity:0.01;fill:#008080"
      width="6"
-     x="38"
+     x="40.999985"
      y="30" />
   <rect
      id="hint-left-margin"
      height="4"
-     style="fill:#008080;opacity:0.01"
+     style="opacity:0.01;fill:#008080"
      width="6"
-     x="0"
+     x="3"
      y="30" />
   <rect
      id="hint-top-inset"
-     height="9.99999993923e-09"
+     height="9.9999999e-09"
      style="fill:#00ff00"
      width="4"
-     x="20"
+     x="23.000004"
      y="10" />
   <rect
      id="hint-bottom-inset"
-     height="9.99999993923e-09"
+     height="9.9999999e-09"
      style="fill:#05615f;fill-opacity:1"
      width="4"
-     x="20"
+     x="23.000004"
      y="54" />
   <rect
      id="hint-left-inset"
      height="4"
      style="fill:#00ffff"
-     width="9.99999993923e-09"
-     x="0"
+     width="9.9999999e-09"
+     x="3"
      y="30" />
   <rect
      id="hint-right-inset"
      height="4"
      style="fill:#00ffff"
-     width="9.99999993923e-09"
-     x="44"
+     width="9.9999999e-09"
+     x="46.999985"
      y="30" />
   <rect
      id="mask-top"
-     height="6.00002098083"
-     width="31.9999904633"
-     x="119"
+     height="6.000021"
+     width="31.99999"
+     x="118"
      y="10"
      style="fill:#050e15;fill-opacity:1" />
   <rect
      id="mask-center"
      height="32"
      width="32"
-     x="119"
+     x="118"
      y="16"
      style="fill:#050e15;fill-opacity:1" />
   <rect
      id="mask-bottom"
-     height="6.00002145767"
+     height="6.0000215"
      transform="scale(1,-1)"
-     width="32.0000076294"
-     x="119"
+     width="32.000008"
+     x="118"
      y="-54"
      style="fill:#050e15;fill-opacity:1" />
   <rect
      id="mask-left"
      height="32"
      width="6"
-     x="113"
+     x="112"
      y="16"
      style="fill:#050e15;fill-opacity:1" />
   <rect
      id="mask-right"
      height="32"
      width="6"
-     x="151"
+     x="149.99994"
      y="16"
      style="fill:#050e15;fill-opacity:1" />
   <path
      id="mask-topleft"
-     d="m 116,10 c -1.656854249,0 -3,1.3431457511 -3,3 v 3 h 6 v -6 z"
+     d="m 115,10 c -1.65685,0 -3,1.343146 -3,3 v 3 h 6 v -6 z"
      style="fill:#050e15;fill-opacity:1" />
   <path
      id="mask-topright"
-     d="m 151,10 v 6 h 6 v -3 c 0,-1.6568542488 -1.343145751,-3 -3,-3 z"
+     d="m 150,10 v 6 h 6 v -3 c 0,-1.656854 -1.34315,-3 -3,-3 z"
      style="fill:#050e15;fill-opacity:1" />
   <path
      id="mask-bottomleft"
-     d="m 116,54 h 3 v -6 h -6 v 3 c 0,1.6568542489 1.343145751,3 3,3 z"
+     d="m 115,54 h 3 v -6 h -6 v 3 c 0,1.656854 1.34315,3 3,3 z"
      style="fill:#050e15;fill-opacity:1" />
   <path
      id="mask-bottomright"
-     d="m 154,54 h -3 v -6 h 6 v 3 c 0,1.6568542489 -1.343145751,3 -3,3 z"
+     d="m 153,54 h -3 v -6 h 6 v 3 c 0,1.656854 -1.34315,3 -3,3 z"
      style="fill:#050e15;fill-opacity:1" />
   <rect
      id="rect30894"

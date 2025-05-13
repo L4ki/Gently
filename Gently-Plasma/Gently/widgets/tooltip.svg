@@ -5,7 +5,7 @@
    viewBox="0 0 173 56.000004"
    id="svg2"
    version="1.1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.4 (unknown)"
    sodipodi:docname="tooltip.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -823,17 +823,17 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="87.874999"
-     inkscape:cy="50"
+     inkscape:zoom="8.0000001"
+     inkscape:cx="43.437499"
+     inkscape:cy="33.0625"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:showpageshadow="true"
-     borderlayer="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -852,7 +852,7 @@
      inkscape:snap-grids="true"
      inkscape:pagecheckerboard="0"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#cccccc">
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -927,7 +927,7 @@
          class="ColorScheme-Background" />
       <rect
          transform="matrix(0,-1,-1,0,0,0)"
-         style="opacity:1;fill:#142e52;fill-opacity:0.25;stroke:none"
+         style="opacity:1;fill:#17365e;fill-opacity:0.40000001;stroke:none"
          id="rect985"
          width="0.59997272"
          height="32.000015"
@@ -1126,7 +1126,7 @@
          sodipodi:nodetypes="cssc" />
       <path
          id="path1039"
-         style="opacity:1;fill:#142e52;fill-opacity:0.25;stroke-width:0.9;stop-color:#eff0f1"
+         style="opacity:1;fill:#17365e;fill-opacity:0.40000001;stroke-width:0.9;stop-color:#eff0f1"
          d="m 56.00002,9.00002 c -5.4,0 -9,3.6 -9,9 L 48,18 c 4.8e-5,-4.79999 3.200008,-8 8,-8 z"
          transform="translate(2,906.36218)"
          sodipodi:nodetypes="ccccc" />
@@ -1139,7 +1139,7 @@
        xlink:href="#topleft"
        y="0"
        x="0"
-       style="fill:#1e4a7c;fill-opacity:0.301961" />
+       style="fill:#22508c;fill-opacity:0.49803922" />
     <use
        height="100%"
        width="100%"
