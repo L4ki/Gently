@@ -5,7 +5,7 @@ Comment=Gently Plasma Theme
 X-KDE-PluginInfo-Author=l4k1
 X-KDE-PluginInfo-Email=l4k1987@gmail.com
 X-KDE-PluginInfo-Name=Gently
-X-KDE-PluginInfo-Version=24.7
+X-KDE-PluginInfo-Version=24.8
 X-KDE-PluginInfo-Website=https://github.com/L4ki/Gently
 X-KDE-PluginInfo-Category=Plasma Theme
 X-KDE-PluginInfo-Depends=
@@ -21,6 +21,6 @@ enabled=true
 
 [ContrastEffect]
 enabled=false
-contrast=0.2
-intensity=0.4
-saturation=1.7
+contrast=0.4
+intensity=0.6
+saturation=8
